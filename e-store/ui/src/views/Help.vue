@@ -1,14 +1,8 @@
 <template>
     <div class="help">
         <p>Hi Pro</p>
-        <WelcomeMohmad
-            v-for="post in posts"
-            :key="post.id"
-            :id="post.id"
-            :userId="post.userId"
-            :title="post.title"
-            :body="post.body"
-        />
+        <WelcomeMohmad v-for="post in posts" :key="post.id" :id="post.id" :userId="post.userId" :title="post.title"
+            :body="post.body" />
     </div>
 </template>
 <script>

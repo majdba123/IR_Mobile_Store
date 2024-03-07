@@ -1,5 +1,6 @@
 <template>
     <HeaderAllCategories />
+
     <body>
         <h1 class="beautiful-title">Compare Page</h1>
         <div class="container">
@@ -10,33 +11,17 @@
                             <tr>
                                 <th>Select Product</th>
                                 <th width="300px">
-                                    <select
-                                        class="form-control"
-                                        id="select1"
-                                        @change="changephone1()"
-                                    >
+                                    <select class="form-control" id="select1" @change="changephone1()">
                                         <option disabled>--Select--</option>
-                                        <option
-                                            v-for="(product, index) in products"
-                                            :key="product.id"
-                                            :value="index"
-                                        >
+                                        <option v-for="(product, index) in products" :key="product.id" :value="index">
                                             {{ product.mobile_name }}
                                         </option>
                                     </select>
                                 </th>
                                 <th width="300px">
-                                    <select
-                                        class="form-control"
-                                        id="select2"
-                                        @change="changephone2()"
-                                    >
+                                    <select class="form-control" id="select2" @change="changephone2()">
                                         <option disabled>--Select--</option>
-                                        <option
-                                            v-for="(product, index) in products"
-                                            :key="product.id"
-                                            :value="index"
-                                        >
+                                        <option v-for="(product, index) in products" :key="product.id" :value="index">
                                             {{ product.mobile_name }}
                                         </option>
                                     </select>
@@ -53,97 +38,97 @@
                                 </td>
                                 <td id="price2">
                                     {{
-                                        phone2.Price == null
-                                            ? "N/A"
-                                            : phone2.Price
-                                    }}
+                                            phone2.Price == null
+                                                ? "N/A"
+                                                : phone2.Price
+                                        }}
                                 </td>
                             </tr>
                             <tr>
                                 <th>Front_camera_spsecfication</th>
                                 <td id="Front_camera_spsecfication">
                                     {{
-                                        phone1.Front_camera_spsecfication ==
-                                        null
-                                            ? "N/A"
-                                            : phone1.Front_camera_spsecfication
-                                    }}
+                                            phone1.Front_camera_spsecfication ==
+                                                null
+                                                ? "N/A"
+                                                : phone1.Front_camera_spsecfication
+                                        }}
                                 </td>
                                 <td id="Front_camera_spsecfication">
                                     {{
-                                        phone2.Front_camera_spsecfication ==
-                                        null
-                                            ? "N/A"
-                                            : phone2.Front_camera_spsecfication
-                                    }}
+                                            phone2.Front_camera_spsecfication ==
+                                                null
+                                                ? "N/A"
+                                                : phone2.Front_camera_spsecfication
+                                        }}
                                 </td>
                             </tr>
                             <tr>
                                 <th>Back_camera_spsecfication</th>
                                 <td id="Back_camera_spsecfication">
                                     {{
-                                        phone1.Back_camera_spsecfication == null
-                                            ? "N/A"
-                                            : phone1.Back_camera_spsecfication
-                                    }}
+                                            phone1.Back_camera_spsecfication == null
+                                                ? "N/A"
+                                                : phone1.Back_camera_spsecfication
+                                        }}
                                 </td>
                                 <td id="Back_camera_spsecfication">
                                     {{
-                                        phone2.Back_camera_spsecfication == null
-                                            ? "N/A"
-                                            : phone2.Back_camera_spsecfication
-                                    }}
+                                            phone2.Back_camera_spsecfication == null
+                                                ? "N/A"
+                                                : phone2.Back_camera_spsecfication
+                                        }}
                                 </td>
                             </tr>
                             <tr>
                                 <th>Type_of_charge</th>
                                 <td id="Type_of_charge">
                                     {{
-                                        phone1.Type_of_charge == null
-                                            ? "N/A"
-                                            : phone1.Type_of_charge
-                                    }}
+                                            phone1.Type_of_charge == null
+                                                ? "N/A"
+                                                : phone1.Type_of_charge
+                                        }}
                                 </td>
                                 <td id="Cpu_spsecfication">
                                     {{
-                                        phone2.Type_of_charge == null
-                                            ? "N/A"
-                                            : phone2.Type_of_charge
-                                    }}
+                                            phone2.Type_of_charge == null
+                                                ? "N/A"
+                                                : phone2.Type_of_charge
+                                        }}
                                 </td>
                             </tr>
                             <tr>
                                 <th>Gpu_spsecfication</th>
                                 <td id="Gpu_spsecfication">
                                     {{
-                                        phone1.Gpu_spsecfication == null
-                                            ? "N/A"
-                                            : phone1.Gpu_spsecfication
-                                    }}
+                                            phone1.Gpu_spsecfication == null
+                                                ? "N/A"
+                                                : phone1.Gpu_spsecfication
+                                        }}
                                 </td>
                                 <td id="Cpu_spsecfication">
                                     {{
-                                        phone2.Gpu_spsecfication == null
-                                            ? "N/A"
-                                            : phone2.Gpu_spsecfication
-                                    }}
+                                            phone2.Gpu_spsecfication == null
+                                                ? "N/A"
+                                                : phone2.Gpu_spsecfication
+                                        }}
                                 </td>
                             </tr>
                             <tr>
                                 <th>Cpu_spsecfication</th>
                                 <td id="Cpu_spsecfication1">
                                     {{
-                                        phone1.Cpu_spsecfication == null
-                                            ? "N/A"
-                                            : phone1.Cpu_spsecfication
-                                    }}
+                                            phone1.Cpu_spsecfication == null
+                                                ? "N/A"
+                                                : phone1.Cpu_spsecfication
+                                        }}
                                 </td>
                                 <td id="Cpu_spsecfication">
                                     {{
-                                        phone2.Cpu_spsecfication == null
-                                            ? "N/A"
-                                            : phone2.Cpu_spsecfication
-                                    }}
+                                            phone2.Cpu_spsecfication == null
+                                                ? "N/A"
+                                                : phone2.Cpu_spsecfication
+                                        }}
                                 </td>
                             </tr>
                             <tr>
@@ -151,34 +136,34 @@
 
                                 <td id="Size_Screnn1">
                                     {{
-                                        phone1.Screen_Size == null
-                                            ? "N/A"
-                                            : phone1.Screen_Size
-                                    }}
+                                            phone1.Screen_Size == null
+                                                ? "N/A"
+                                                : phone1.Screen_Size
+                                        }}
                                 </td>
                                 <td id="Size_Screnn2">
                                     {{
-                                        phone2.Screen_Size == null
-                                            ? "N/A"
-                                            : phone2.Screen_Size
-                                    }}
+                                            phone2.Screen_Size == null
+                                                ? "N/A"
+                                                : phone2.Screen_Size
+                                        }}
                                 </td>
                             </tr>
                             <tr>
                                 <th>battery_spsecfication</th>
                                 <td id="battery_spsecfication">
                                     {{
-                                        phone1.battery_spsecfication == null
-                                            ? "N/A"
-                                            : phone1.battery_spsecfication
-                                    }}
+                                            phone1.battery_spsecfication == null
+                                                ? "N/A"
+                                                : phone1.battery_spsecfication
+                                        }}
                                 </td>
                                 <td id="battery_spsecfication">
                                     {{
-                                        phone2.battery_spsecfication == null
-                                            ? "N/A"
-                                            : phone2.battery_spsecfication
-                                    }}
+                                            phone2.battery_spsecfication == null
+                                                ? "N/A"
+                                                : phone2.battery_spsecfication
+                                        }}
                                 </td>
                             </tr>
                         </table>

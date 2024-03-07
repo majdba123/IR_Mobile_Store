@@ -1,88 +1,43 @@
 <template>
     <html lang="en">
-        <head>
-            <meta charset="UTF-8" />
 
-            <meta
-                name="viewport"
-                content="width=device-width, initial-scale=1.0"
-            />
-            <link rel="stylesheet" href="style.css" />
-        </head>
-        <HeaderSignUp />
-        <div class="aaa">
-            <section class="wwrapper">
-                <div class="form signup">
-                    <header>Signup</header>
-                    <form>
-                        <input
-                            type="text"
-                            class="bbb"
-                            placeholder="Full name"
-                            required
-                            v-model="name"
-                        />
-                        <input
-                            class="bbb"
-                            type="text"
-                            placeholder="Email address"
-                            required
-                            v-model="email"
-                        />
-                        <input
-                            class="bbb"
-                            type="password"
-                            placeholder="Password"
-                            required
-                            v-model="password"
-                        />
-                        <div class="checkbox">
-                            <input type="checkbox" id="signupCheck" />
-                            <label for="signupCheck"
-                                >I accept all terms & conditions</label
-                            >
-                        </div>
-                        ><input
-                            type="button"
-                            @click="register()"
-                            class="bbb"
-                            value="Signup"
-                        />
-                    </form>
-                </div>
-                <div class="form login">
-                    <header>Login</header>
-                    <form action="#">
-                        <input
-                            v-model="email"
-                            class="bbb"
-                            type="text"
-                            placeholder="Email address"
-                            required
-                        />
-                        <input
-                            v-model="password"
-                            class="bbb"
-                            type="password"
-                            placeholder="Password"
-                            required
-                        />
+    <head>
+        <meta charset="UTF-8" />
 
-                        <a href="#"
-                            ><router-link to="/ForgotPassword">
-                                Forgot password?</router-link
-                            >
-                        </a>
-                        <input
-                            type="button"
-                            class="bbb"
-                            value="Login"
-                            @click="login()"
-                        />
-                    </form>
-                </div>
-            </section>
-        </div>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="stylesheet" href="style.css" />
+    </head>
+    <HeaderSignUp />
+    <div class="aaa">
+        <section class="wwrapper">
+            <div class="form signup">
+                <header>Signup</header>
+                <form>
+                    <input type="text" class="bbb" placeholder="Full name" required v-model="name" />
+                    <input class="bbb" type="text" placeholder="Email address" required v-model="email" />
+                    <input class="bbb" type="password" placeholder="Password" required v-model="password" />
+                    <div class="checkbox">
+                        <input type="checkbox" id="signupCheck" />
+                        <label for="signupCheck">I accept all terms & conditions</label>
+                    </div>
+                    ><input type="button" @click="register()" class="bbb" value="Signup" />
+                </form>
+            </div>
+            <div class="form login">
+                <header>Login</header>
+                <form action="#">
+                    <input v-model="email" class="bbb" type="text" placeholder="Email address" required />
+                    <input v-model="password" class="bbb" type="password" placeholder="Password" required />
+
+                    <a href="#"><router-link to="/ForgotPassword">
+                            Forgot password?</router-link>
+                    </a>
+                    <input type="button" class="bbb" value="Login" @click="login()" />
+                </form>
+            </div>
+        </section>
+    </div>
+
     </html>
 </template>
 
@@ -250,18 +205,21 @@ export default {
 .wwrapper.active .signup header {
     opacity: 0.6;
 }
+
 .qwq {
     display: flex;
     flex-direction: column;
     gap: 20px;
     margin-top: 40px;
 }
+
 .wwrapper form {
     display: flex;
     flex-direction: column;
     gap: 20px;
     margin-top: 40px;
 }
+
 .bbb {
     height: 60px;
     outline: none;
@@ -274,6 +232,7 @@ export default {
     background: #464545;
     transition: all 0.3s ease;
 }
+
 .bbb:hover {
     background: #696868;
 }
@@ -281,6 +240,7 @@ export default {
 .form.login input {
     border: 1px solid #aaa;
 }
+
 form .checkbox {
     gap: 10px;
 }
@@ -319,6 +279,7 @@ form input [type="submit"] {
     border: none;
     transition: all 0.3s ease;
 }
+
 .form.login input[type="submit"]:hover {
     background: #696868;
 }

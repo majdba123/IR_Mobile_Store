@@ -1,14 +1,10 @@
 <template>
     <HeaderAllCategories />
+
     <body>
         <div class="container">
             <div class="search-bar text-center">
-                <input
-                    v-model="name"
-                    type="search"
-                    placeholder="Search your product"
-                    class="search"
-                />
+                <input v-model="name" type="search" placeholder="Search your product" class="search" />
                 <button @click="getorders" class="search-button">
                     <i class="fa fa-search"></i>
                 </button>
@@ -127,11 +123,7 @@
                         <tr>
                             <th class="text-center">Product Image</th>
                             <td>
-                                <img
-                                    src="src\assets\product-1.jpg"
-                                    id="img1"
-                                    alt=""
-                                />
+                                <img src="src\assets\product-1.jpg" id="img1" alt="" />
                             </td>
                         </tr>
                         <tr>
@@ -297,6 +289,7 @@ body {
     margin: 0;
     padding: 0;
 }
+
 .search-bar {
     display: flex;
     align-items: center;
@@ -367,6 +360,7 @@ img {
     .beautiful-title {
         font-size: 1rem;
     }
+
     .table th,
     .table td {
         font-size: 0.75rem;

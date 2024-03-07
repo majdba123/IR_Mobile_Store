@@ -1,11 +1,7 @@
 <template>
-    <link
-        rel="stylesheet"
-        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"
         integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w=="
-        crossorigin="anonymous"
-        referrerpolicy="no-referrer"
-    />
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
     <HeaderUserAccount />
     <div class="wrapper">
         <h1>Frequently Asked Questions</h1>
@@ -130,28 +126,31 @@ export default {
 </script>
 <style scoped>
 @import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
 * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
     font-family: "Roboto", sans-serif;
 }
+
 body {
     background-color: black;
 }
+
 .wrapper {
     max-width: 75%;
     margin: auto;
 }
 
-.wrapper > p,
-.wrapper > h1 {
+.wrapper>p,
+.wrapper>h1 {
     margin: 1.5rem 0;
     text-align: center;
     color: white;
 }
 
-.wrapper > h1 {
+.wrapper>h1 {
     letter-spacing: 3px;
 }
 
@@ -179,6 +178,7 @@ body {
 .accordion:hover {
     background-color: #f1f7f5;
 }
+
 .pannel {
     padding: 0 2rem 2.5rem 2rem;
     background-color: white;
@@ -186,6 +186,7 @@ body {
     background-color: #f1f7f5;
     display: none;
 }
+
 .pannel p {
     color: rgba(0, 0, 0, 0.7);
     font-size: 1.2rem;
@@ -196,6 +197,7 @@ body {
     border: 1px solid rgba(0, 0, 0, 0.2);
     margin: 10px 0;
 }
+
 .faq.active {
     border: none;
 }

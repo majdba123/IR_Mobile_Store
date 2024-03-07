@@ -1,4 +1,5 @@
 <template>
+
     <body>
         <HeaderAdmin />
         <div class="oo">
@@ -6,14 +7,7 @@
             <div class="add-product">
                 <button class="s1" @click="submitFile">Import</button>
 
-                <input
-                    type="file"
-                    @change="changecsv"
-                    accept="csv/*"
-                    ref="file"
-                    id="csv"
-                    name="csv"
-                />
+                <input type="file" @change="changecsv" accept="csv/*" ref="file" id="csv" name="csv" />
             </div>
         </div>
         <div class="container">
@@ -27,52 +21,28 @@
                         <div class="fields">
                             <div class="input-field">
                                 <label>Mobile Name</label>
-                                <input
-                                    v-model="mobilename"
-                                    type="text"
-                                    placeholder="Enter your name"
-                                />
+                                <input v-model="mobilename" type="text" placeholder="Enter your name" />
                             </div>
                             <div class="input-field">
                                 <label>Cpu Spsecfication</label>
-                                <input
-                                    v-model="cpu"
-                                    type="text"
-                                    placeholder="Enter your name"
-                                />
+                                <input v-model="cpu" type="text" placeholder="Enter your name" />
                             </div>
                             <div class="input-field">
                                 <label>Gpu Spsecfication</label>
-                                <input
-                                    v-model="gpu"
-                                    type="text"
-                                    placeholder="Enter your name"
-                                />
+                                <input v-model="gpu" type="text" placeholder="Enter your name" />
                             </div>
 
                             <div class="input-field">
                                 <label>Battery Spsecfication</label>
-                                <input
-                                    v-model="batt"
-                                    type="text"
-                                    placeholder="Enter your name"
-                                />
+                                <input v-model="batt" type="text" placeholder="Enter your name" />
                             </div>
                             <div class="input-field">
                                 <label>Front_camera Spsecfication</label>
-                                <input
-                                    v-model="front"
-                                    type="text"
-                                    placeholder="Enter your name"
-                                />
+                                <input v-model="front" type="text" placeholder="Enter your name" />
                             </div>
                             <div class="input-field">
                                 <label>Back Camera_spsecfication</label>
-                                <input
-                                    type="text"
-                                    v-model="back"
-                                    placeholder="Enter your name"
-                                />
+                                <input type="text" v-model="back" placeholder="Enter your name" />
                             </div>
                         </div>
                     </div>
@@ -81,70 +51,36 @@
                         <div class="fields">
                             <div class="input-field">
                                 <label>Screen Size</label>
-                                <input
-                                    v-model="screen"
-                                    type="text"
-                                    placeholder="Enter your name"
-                                />
+                                <input v-model="screen" type="text" placeholder="Enter your name" />
                             </div>
                             <div class="input-field">
                                 <label>Type of charge</label>
-                                <input
-                                    v-model="type"
-                                    type="text"
-                                    placeholder="Enter your name"
-                                />
+                                <input v-model="type" type="text" placeholder="Enter your name" />
                             </div>
                             <div class="input-field">
                                 <label>Price</label>
-                                <input
-                                    v-model="price"
-                                    type="text"
-                                    placeholder="Enter your name"
-                                />
+                                <input v-model="price" type="text" placeholder="Enter your name" />
                             </div>
 
                             <div class="input-field">
                                 <label>Company Id</label>
-                                <input
-                                    v-model="comid"
-                                    type="text"
-                                    placeholder="Enter your name"
-                                />
+                                <input v-model="comid" type="text" placeholder="Enter your name" />
                             </div>
                             <div class="input-field">
                                 <label>Category Id</label>
-                                <input
-                                    v-model="catid"
-                                    type="text"
-                                    placeholder="Enter your name"
-                                />
+                                <input v-model="catid" type="text" placeholder="Enter your name" />
                             </div>
                             <div class="input-field">
                                 <label>Offer Id</label>
-                                <input
-                                    v-model="offerid"
-                                    type="text"
-                                    placeholder="Enter your name"
-                                />
+                                <input v-model="offerid" type="text" placeholder="Enter your name" />
                             </div>
                             <div class="input-field">
                                 <label>imge</label>
-                                <input
-                                    type="file"
-                                    name="image"
-                                    accept="image/*"
-                                    id="image"
-                                    class="mx-3"
-                                    @change="changefile"
-                                />
+                                <input type="file" name="image" accept="image/*" id="image" class="mx-3"
+                                    @change="changefile" />
                             </div>
                         </div>
-                        <button
-                            type="button"
-                            class="nextbtn"
-                            @click="Addproduct()"
-                        >
+                        <button type="button" class="nextbtn" @click="Addproduct()">
                             Ok
                         </button>
                     </div>
@@ -188,10 +124,7 @@
                         <td>{{ element.Company_id }}</td>
                         <td>{{ element.category_id }}</td>
                         <td>
-                            <button
-                                class="dd"
-                                @click="deleteproduct(element.id)"
-                            >
+                            <button class="dd" @click="deleteproduct(element.id)">
                                 <i class="fa fa-trash"></i>
                             </button>
                         </td>
@@ -216,52 +149,28 @@
                     <div class="fields">
                         <div class="input-field">
                             <label>Mobile Name</label>
-                            <input
-                                v-model="mobilename"
-                                type="text"
-                                placeholder="Enter your name"
-                            />
+                            <input v-model="mobilename" type="text" placeholder="Enter your name" />
                         </div>
                         <div class="input-field">
                             <label>Cpu Spsecfication</label>
-                            <input
-                                v-model="cpu"
-                                type="text"
-                                placeholder="Enter your name"
-                            />
+                            <input v-model="cpu" type="text" placeholder="Enter your name" />
                         </div>
                         <div class="input-field">
                             <label>Gpu Spsecfication</label>
-                            <input
-                                v-model="gpu"
-                                type="text"
-                                placeholder="Enter your name"
-                            />
+                            <input v-model="gpu" type="text" placeholder="Enter your name" />
                         </div>
 
                         <div class="input-field">
                             <label>Battery Spsecfication</label>
-                            <input
-                                v-model="batt"
-                                type="text"
-                                placeholder="Enter your name"
-                            />
+                            <input v-model="batt" type="text" placeholder="Enter your name" />
                         </div>
                         <div class="input-field">
                             <label>Front_camera Spsecfication</label>
-                            <input
-                                v-model="front"
-                                type="text"
-                                placeholder="Enter your name"
-                            />
+                            <input v-model="front" type="text" placeholder="Enter your name" />
                         </div>
                         <div class="input-field">
                             <label>Back Camera_spsecfication</label>
-                            <input
-                                type="text"
-                                v-model="back"
-                                placeholder="Enter your name"
-                            />
+                            <input type="text" v-model="back" placeholder="Enter your name" />
                         </div>
                     </div>
                 </div>
@@ -270,52 +179,28 @@
                     <div class="fields">
                         <div class="input-field">
                             <label>Screen Size</label>
-                            <input
-                                v-model="screen"
-                                type="text"
-                                placeholder="Enter your name"
-                            />
+                            <input v-model="screen" type="text" placeholder="Enter your name" />
                         </div>
                         <div class="input-field">
                             <label>Type of charge</label>
-                            <input
-                                v-model="type"
-                                type="text"
-                                placeholder="Enter your name"
-                            />
+                            <input v-model="type" type="text" placeholder="Enter your name" />
                         </div>
                         <div class="input-field">
                             <label>Price</label>
-                            <input
-                                v-model="price"
-                                type="text"
-                                placeholder="Enter your name"
-                            />
+                            <input v-model="price" type="text" placeholder="Enter your name" />
                         </div>
 
                         <div class="input-field">
                             <label>Company Id</label>
-                            <input
-                                v-model="comid"
-                                type="text"
-                                placeholder="Enter your name"
-                            />
+                            <input v-model="comid" type="text" placeholder="Enter your name" />
                         </div>
                         <div class="input-field">
                             <label>Offer Id</label>
-                            <input
-                                v-model="offerid"
-                                type="text"
-                                placeholder="Enter your name"
-                            />
+                            <input v-model="offerid" type="text" placeholder="Enter your name" />
                         </div>
                         <div class="input-field">
                             <label>Category Id</label>
-                            <input
-                                v-model="catid"
-                                type="text"
-                                placeholder="Enter your name"
-                            />
+                            <input v-model="catid" type="text" placeholder="Enter your name" />
                         </div>
                         <div class="input-field">
                             <label>imge</label>
@@ -323,11 +208,7 @@
                         </div>
                     </div>
                     <button @click="cancelEdit">Cancel</button>
-                    <button
-                        type="button"
-                        class="nextbtn"
-                        @click="editproduct() + saveEdit()"
-                    >
+                    <button type="button" class="nextbtn" @click="editproduct() + saveEdit()">
                         Save
                     </button>
                 </div>
@@ -553,6 +434,7 @@ export default {
     box-sizing: border-box;
     font-family: "poppins", "sans-serif";
 }
+
 .table {
     border-collapse: collapse;
     table-layout: fixed;
@@ -575,9 +457,11 @@ export default {
     word-break: break-all;
     color: white;
 }
+
 tr td a {
     color: #000000;
 }
+
 .dd {
     font-size: 30px;
 
@@ -587,6 +471,7 @@ tr td a {
 .dd:hover {
     color: #3f3e3e;
 }
+
 .table td {
     padding: 12px 15px;
     text-align: center;
@@ -690,6 +575,7 @@ body {
     background-color: #fff;
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
 }
+
 .containeraaab {
     position: fixed;
     top: 50%;
@@ -713,6 +599,7 @@ body {
     font-weight: 600;
     color: #333;
 }
+
 .container header {
     position: relative;
     font-size: 20px;
@@ -730,6 +617,7 @@ body {
     border-radius: 8px;
     background-color: rgb(26, 37, 37);
 }
+
 .container header::before {
     content: "";
     position: absolute;
@@ -740,12 +628,14 @@ body {
     border-radius: 8px;
     background-color: rgb(26, 37, 37);
 }
+
 .containeraaab form {
     position: relative;
     margin-top: 16px;
     min-height: 100px;
     background-color: #fff;
 }
+
 .container form {
     position: relative;
     margin-top: 16px;
@@ -756,6 +646,7 @@ body {
 .containeraaab form .details {
     margin-top: 10px;
 }
+
 .container form .details {
     margin-top: 10px;
 }
@@ -766,6 +657,7 @@ body {
     margin: 6px 0;
     color: #333;
 }
+
 .container form .title {
     font-size: 19px;
     font-weight: 500;
@@ -779,6 +671,7 @@ body {
     justify-content: space-between;
     flex-wrap: wrap;
 }
+
 .container form .fields {
     display: flex;
     align-items: center;
@@ -831,6 +724,7 @@ form .fields .input-field {
     transition: all 0.3s linear;
     cursor: pointer;
 }
+
 .container form button {
     display: flex;
     align-items: center;
@@ -857,16 +751,19 @@ form button:hover {
     align-items: center;
     justify-content: center;
 }
+
 .container form button {
     display: flex;
     align-items: center;
     justify-content: center;
 }
+
 @media (max-width: 400px) {
     .containeraaab {
         width: 90%;
         height: auto;
     }
+
     .container {
         width: 90%;
         height: auto;

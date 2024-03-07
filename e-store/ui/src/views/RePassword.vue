@@ -10,49 +10,23 @@
                             <h3 class="text-center">Forgot Password?</h3>
                             <h4>You can reset your password here.</h4>
                             <div class="panel-body">
-                                <form
-                                    id="register-form"
-                                    role="form"
-                                    autocomplete="off"
-                                    class="form"
-                                    method="post"
-                                >
+                                <form id="register-form" role="form" autocomplete="off" class="form" method="post">
                                     <div class="form-group">
                                         <div class="qq">
-                                            <input
-                                                id="password"
-                                                name="password"
-                                                placeholder="Password "
-                                                class="form-control text-center"
-                                                type="password"
-                                            />
+                                            <input id="password" name="password" placeholder="Password "
+                                                class="form-control text-center" type="password" />
                                         </div>
                                         <div class="qq">
-                                            <input
-                                                id="password"
-                                                name="password"
-                                                placeholder="RePassword"
-                                                class="form-control text-center"
-                                                type="password"
-                                            />
+                                            <input id="password" name="password" placeholder="RePassword"
+                                                class="form-control text-center" type="password" />
                                         </div>
                                     </div>
                                     <div class="form-group">
-                                        <input
-                                            name="recover-submit"
-                                            class="btn btn-lg btn-primary btn-block"
-                                            value="Reset Password"
-                                            type="submit"
-                                        />
+                                        <input name="recover-submit" class="btn btn-lg btn-primary btn-block"
+                                            value="Reset Password" type="submit" />
                                     </div>
 
-                                    <input
-                                        type="hidden"
-                                        class="hide"
-                                        name="token"
-                                        id="token"
-                                        value=""
-                                    />
+                                    <input type="hidden" class="hide" name="token" id="token" value="" />
                                 </form>
                             </div>
                         </div>

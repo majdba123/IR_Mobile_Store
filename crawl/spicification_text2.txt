@@ -1,0 +1,4513 @@
+Also known as Redmi K60 Extreme Edition
+
+
+Network
+Technology
+GSM / CDMA / HSPA / CDMA2000 / LTE / 5G
+
+
+2G bands
+GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2
+
+ 
+CDMA 800 
+
+
+3G bands
+HSDPA 800 / 850 / 900 / 1700(AWS) / 2100 
+
+
+ 
+CDMA2000 1x 
+
+
+4G bands
+1, 3, 4, 5, 8, 18, 19, 26, 34, 38, 39, 40, 41, 42, 66
+
+
+5G bands
+1, 3, 5, 8, 28, 38, 41, 66, 77, 78 SA/NSA
+
+
+Speed
+HSPA, LTE-A (CA), 5G
+
+
+
+
+Launch
+Announced
+2023, August 15
+
+
+Status
+Available. Released 2023, August 15
+
+
+
+
+Body
+Dimensions
+162.2 x 75.7 x 8.5 mm (6.39 x 2.98 x 0.33 in)
+
+Weight
+204 g (7.20 oz)
+
+
+SIM
+Dual SIM (Nano-SIM, dual stand-by)
+
+ IP68 dust/water resistant (up to 1.5m for 30 min)
+
+
+
+Display
+Type
+OLED, 68B colors, 144Hz, Dolby Vision, HDR10+, 2600 nits (peak)
+
+
+Size
+6.67 inches, 107.4 cm2 (~87.5% screen-to-body ratio)
+
+
+Resolution
+1220 x 2712 pixels, 20:9 ratio (~446 ppi density)
+
+
+Protection
+Unspecified
+
+
+
+
+Platform
+OS
+Android 13, MIUI 14
+
+Chipset
+Mediatek Dimensity 9200+ (4 nm)
+
+CPU
+Octa-core (1x3.35 GHz Cortex-X3 & 3x3.0 GHz Cortex-A715 & 4x2.0 GHz Cortex-A510)
+
+GPU
+Immortalis-G715 MC11
+
+
+
+
+Memory
+Card slot
+No
+
+Internal
+256GB 12GB RAM, 256GB 16GB RAM, 512GB 16GB RAM, 1TB 16GB RAM, 1TB 24GB RAM
+
+ UFS 4.0
+
+
+
+
+
+Main Camera
+Triple
+50 MP, f/1.7, (wide), 1/1.49", 1.0µm, PDAF, OIS
+8 MP, 119˚ (ultrawide), 1/4.0", 1.12µm
+2 MP, f/2.4, (macro)
+
+
+Features
+Dual-LED dual-tone flash, HDR, panorama
+
+
+Video
+8K@24fps, 4K@30/60fps, 1080p@30/60/120/240/960fps, gyro-EIS, HDR10+, 10-bit
+
+
+
+
+Selfie camera
+Single
+20 MP, (wide), 1/2.0", 0.8µm
+
+
+Features
+HDR
+
+
+Video
+1080p@30/120fps
+
+
+
+
+Sound
+Loudspeaker 
+Yes, with stereo speakers
+
+
+3.5mm jack 
+No
+
+ 24-bit/192kHz Hi-Res audio
+
+
+
+Comms
+WLAN
+Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band, Wi-Fi Direct
+
+
+Bluetooth
+5.4, A2DP, LE
+
+
+Positioning
+GPS (L1+L5), GLONASS (G1), BDS (B1I+B1C+B2a+B2b), GALILEO (E1+E5a), QZSS (L1+L5), NavIC
+
+
+NFC
+Yes
+
+
+Infrared port
+Yes
+
+
+Radio
+Unspecified
+
+
+USB
+USB Type-C, OTG
+
+
+
+
+Features
+Sensors
+Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, color spectrum
+
+
+
+
+Battery
+Type
+Li-Po 5000 mAh, non-removable
+
+
+Charging
+120W wired, PD3.0, 100% in 19 min (advertised)
+
+
+
+
+Misc
+Colors
+Black, White, Green
+
+
+Models
+23078RKD5C
+
+
+Price
+About 330 EUR
+____
+Also known as Redmi K60 Extreme Edition
+
+
+Network
+Technology
+GSM / CDMA / HSPA / CDMA2000 / LTE / 5G
+
+
+2G bands
+GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2
+
+ 
+CDMA 800 
+
+
+3G bands
+HSDPA 800 / 850 / 900 / 1700(AWS) / 2100 
+
+
+ 
+CDMA2000 1x 
+
+
+4G bands
+1, 3, 4, 5, 8, 18, 19, 26, 34, 38, 39, 40, 41, 42, 66
+
+
+5G bands
+1, 3, 5, 8, 28, 38, 41, 66, 77, 78 SA/NSA
+
+
+Speed
+HSPA, LTE-A (CA), 5G
+
+
+
+
+Launch
+Announced
+2023, August 15
+
+
+Status
+Available. Released 2023, August 15
+
+
+
+
+Body
+Dimensions
+162.2 x 75.7 x 8.5 mm (6.39 x 2.98 x 0.33 in)
+
+Weight
+204 g (7.20 oz)
+
+
+SIM
+Dual SIM (Nano-SIM, dual stand-by)
+
+ IP68 dust/water resistant (up to 1.5m for 30 min)
+
+
+
+Display
+Type
+OLED, 68B colors, 144Hz, Dolby Vision, HDR10+, 2600 nits (peak)
+
+
+Size
+6.67 inches, 107.4 cm2 (~87.5% screen-to-body ratio)
+
+
+Resolution
+1220 x 2712 pixels, 20:9 ratio (~446 ppi density)
+
+
+Protection
+Unspecified
+
+
+
+
+Platform
+OS
+Android 13, MIUI 14
+
+Chipset
+Mediatek Dimensity 9200+ (4 nm)
+
+CPU
+Octa-core (1x3.35 GHz Cortex-X3 & 3x3.0 GHz Cortex-A715 & 4x2.0 GHz Cortex-A510)
+
+GPU
+Immortalis-G715 MC11
+
+
+
+
+Memory
+Card slot
+No
+
+Internal
+256GB 12GB RAM, 256GB 16GB RAM, 512GB 16GB RAM, 1TB 16GB RAM, 1TB 24GB RAM
+
+ UFS 4.0
+
+
+
+
+
+Main Camera
+Triple
+50 MP, f/1.7, (wide), 1/1.49", 1.0µm, PDAF, OIS
+8 MP, 119˚ (ultrawide), 1/4.0", 1.12µm
+2 MP, f/2.4, (macro)
+
+
+Features
+Dual-LED dual-tone flash, HDR, panorama
+
+
+Video
+8K@24fps, 4K@30/60fps, 1080p@30/60/120/240/960fps, gyro-EIS, HDR10+, 10-bit
+
+
+
+
+Selfie camera
+Single
+20 MP, (wide), 1/2.0", 0.8µm
+
+
+Features
+HDR
+
+
+Video
+1080p@30/120fps
+
+
+
+
+Sound
+Loudspeaker 
+Yes, with stereo speakers
+
+
+3.5mm jack 
+No
+
+ 24-bit/192kHz Hi-Res audio
+
+
+
+Comms
+WLAN
+Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band, Wi-Fi Direct
+
+
+Bluetooth
+5.4, A2DP, LE
+
+
+Positioning
+GPS (L1+L5), GLONASS (G1), BDS (B1I+B1C+B2a+B2b), GALILEO (E1+E5a), QZSS (L1+L5), NavIC
+
+
+NFC
+Yes
+
+
+Infrared port
+Yes
+
+
+Radio
+Unspecified
+
+
+USB
+USB Type-C, OTG
+
+
+
+
+Features
+Sensors
+Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, color spectrum
+
+
+
+
+Battery
+Type
+Li-Po 5000 mAh, non-removable
+
+
+Charging
+120W wired, PD3.0, 100% in 19 min (advertised)
+
+
+
+
+Misc
+Colors
+Black, White, Green
+
+
+Models
+23078RKD5C
+
+
+Price
+About 330 EUR
+____
+Network
+Technology
+GSM / CDMA / HSPA / EVDO / LTE / 5G
+
+
+2G bands
+GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2
+
+ 
+CDMA 800 & TD-SCDMA
+
+
+3G bands
+HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100 
+
+
+ 
+CDMA2000 1xEV-DO 
+
+
+4G bands
+1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 26, 28, 34, 38, 39, 40, 41
+
+
+5G bands
+1, 3, 8, 28, 41, 77, 78, 79 SA/NSA
+
+
+Speed
+HSPA, LTE-A, 5G
+
+
+
+
+Launch
+Announced
+2022, March 30
+
+
+Status
+Available. Released 2022, April 04
+
+
+
+
+Body
+Dimensions
+163.9 x 76.5 x 9.5 mm (6.45 x 3.01 x 0.37 in)
+
+Weight
+220 g (7.76 oz)
+
+
+SIM
+Dual SIM (Nano-SIM, dual stand-by)
+
+ Physical pop-up gaming triggers
+
+
+
+Display
+Type
+OLED, 1B colors, 144Hz, HDR10+
+
+
+Size
+6.67 inches, 107.4 cm2 (~85.7% screen-to-body ratio)
+
+
+Resolution
+1080 x 2400 pixels, 20:9 ratio (~395 ppi density)
+
+ Always-on display
+
+
+
+Platform
+OS
+Android 12, Joy UI 13
+
+Chipset
+Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm)
+
+CPU
+Octa-core (1x3.00 GHz Cortex-X2 & 3x2.50 GHz Cortex-A710 & 4x1.80 GHz Cortex-A510)
+
+GPU
+Adreno 730
+
+
+
+
+Memory
+Card slot
+No
+
+Internal
+128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM, 512GB 16GB RAM
+
+ UFS 3.1/NVMe SSD
+
+
+
+
+
+Main Camera
+Triple
+108 MP, f/1.8, (wide), 1/1.52", 0.7µm, PDAF
+13 MP, f/2.4, 120˚ (ultrawide), 1/3.06", 1.12µm
+5 MP, f/2.4, (telephoto macro), AF
+
+
+Features
+LED flash, HDR, panorama
+
+
+Video
+4K@30/60fps, 1080p@30/60/240fps, 1080p@960fps; HDR10+
+
+
+
+
+Selfie camera
+Single
+16 MP, (wide), 1/3.06", 1.0µm
+
+
+Features
+HDR
+
+
+Video
+1080p@30fps
+
+
+
+
+Sound
+Loudspeaker 
+Yes, with stereo speakers
+
+
+3.5mm jack 
+No
+
+ 24-bit/192kHz Hi-Res audio
+Snapdragon Sound
+
+
+
+Comms
+WLAN
+Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct
+
+
+Bluetooth
+5.2, A2DP, LE, aptX HD, aptX Adaptive
+
+
+Positioning
+GPS, GLONASS, GALILEO, QZSS, BDS
+
+
+NFC
+Yes
+
+
+Radio
+No
+
+
+USB
+USB Type-C 2.0, video output
+
+
+
+
+Features
+Sensors
+Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer (China only)
+
+
+
+
+Battery
+Type
+Li-Po 4650 mAh, non-removable
+
+
+Charging
+120W wired, 100% in 15 min (advertised)
+
+
+
+
+Misc
+Colors
+Black, White
+
+
+Models
+SHARK KTUS-H0
+
+
+Price
+About 720 EUR
+
+
+
+
+Endurance rating 83h
+____
+Network
+Technology
+GSM / CDMA / HSPA / EVDO / LTE / 5G
+
+
+2G bands
+GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2
+
+ 
+CDMA 800 & TD-SCDMA
+
+
+3G bands
+HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100 
+
+
+ 
+CDMA2000 1xEV-DO 
+
+
+4G bands
+1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 26, 28, 34, 38, 39, 40, 41
+
+
+5G bands
+1, 3, 8, 28, 41, 77, 78, 79 SA/NSA
+
+
+Speed
+HSPA, LTE-A, 5G
+
+
+
+
+Launch
+Announced
+2022, March 30
+
+
+Status
+Available. Released 2022, April 04
+
+
+
+
+Body
+Dimensions
+163.9 x 76.5 x 9.5 mm (6.45 x 3.01 x 0.37 in)
+
+Weight
+220 g (7.76 oz)
+
+
+SIM
+Dual SIM (Nano-SIM, dual stand-by)
+
+ Physical pop-up gaming triggers
+
+
+
+Display
+Type
+OLED, 1B colors, 144Hz, HDR10+
+
+
+Size
+6.67 inches, 107.4 cm2 (~85.7% screen-to-body ratio)
+
+
+Resolution
+1080 x 2400 pixels, 20:9 ratio (~395 ppi density)
+
+ Always-on display
+
+
+
+Platform
+OS
+Android 12, Joy UI 13
+
+Chipset
+Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm)
+
+CPU
+Octa-core (1x3.00 GHz Cortex-X2 & 3x2.50 GHz Cortex-A710 & 4x1.80 GHz Cortex-A510)
+
+GPU
+Adreno 730
+
+
+
+
+Memory
+Card slot
+No
+
+Internal
+128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM, 512GB 16GB RAM
+
+ UFS 3.1/NVMe SSD
+
+
+
+
+
+Main Camera
+Triple
+108 MP, f/1.8, (wide), 1/1.52", 0.7µm, PDAF
+13 MP, f/2.4, 120˚ (ultrawide), 1/3.06", 1.12µm
+5 MP, f/2.4, (telephoto macro), AF
+
+
+Features
+LED flash, HDR, panorama
+
+
+Video
+4K@30/60fps, 1080p@30/60/240fps, 1080p@960fps; HDR10+
+
+
+
+
+Selfie camera
+Single
+16 MP, (wide), 1/3.06", 1.0µm
+
+
+Features
+HDR
+
+
+Video
+1080p@30fps
+
+
+
+
+Sound
+Loudspeaker 
+Yes, with stereo speakers
+
+
+3.5mm jack 
+No
+
+ 24-bit/192kHz Hi-Res audio
+Snapdragon Sound
+
+
+
+Comms
+WLAN
+Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct
+
+
+Bluetooth
+5.2, A2DP, LE, aptX HD, aptX Adaptive
+
+
+Positioning
+GPS, GLONASS, GALILEO, QZSS, BDS
+
+
+NFC
+Yes
+
+
+Radio
+No
+
+
+USB
+USB Type-C 2.0, video output
+
+
+
+
+Features
+Sensors
+Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer (China only)
+
+
+
+
+Battery
+Type
+Li-Po 4650 mAh, non-removable
+
+
+Charging
+120W wired, 100% in 15 min (advertised)
+
+
+
+
+Misc
+Colors
+Black, White
+
+
+Models
+SHARK KTUS-H0
+
+
+Price
+About 720 EUR
+
+
+
+
+Endurance rating 83h
+____
+Network
+Technology
+CDMA / EVDO
+
+
+2G bands
+CDMA 800 / 1900 
+
+3G bands
+CDMA2000 1xEV-DO 
+
+
+Speed
+EV-DO Rev.A 3.1 Mbps
+
+
+
+
+Launch
+Announced
+2011, January. Released 2011, February
+
+
+Status
+Discontinued
+
+
+
+
+Body
+Dimensions
+115.2 x 58.6 x 9.3 mm (4.54 x 2.31 x 0.37 in)
+
+Weight
+137 g (4.83 oz)
+
+
+SIM
+Micro-SIM
+
+
+
+
+Display
+Type
+IPS LCD
+
+
+Size
+3.5 inches, 36.5 cm2 (~54.0% screen-to-body ratio)
+
+
+Resolution
+640 x 960 pixels, 3:2 ratio (~330 ppi density)
+
+
+Protection
+Corning Gorilla Glass, oleophobic coating
+
+
+
+
+Platform
+OS
+iOS 4, upgradable to iOS 7.1.1
+
+Chipset
+Apple A4 (45 nm)
+
+CPU
+1.0 GHz Cortex-A8
+
+GPU
+PowerVR SGX535
+
+
+
+
+Memory
+Card slot
+No
+
+Internal
+16GB 512MB RAM, 32GB 512MB RAM
+
+
+
+
+
+
+Main Camera
+Single
+5 MP, AF
+
+
+Features
+LED flash, HDR
+
+
+Video
+720p@30fps
+
+
+
+
+Selfie camera
+ 
+Videocalling over Wi-Fi only
+
+
+
+
+Sound
+Loudspeaker 
+Yes
+
+
+3.5mm jack 
+Yes
+
+
+
+
+Comms
+WLAN
+Wi-Fi 802.11 b/g/n
+
+
+Bluetooth
+2.1, A2DP
+
+
+Positioning
+GPS, A-GPS
+
+
+Radio
+No
+
+
+USB
+2.0
+
+
+
+
+Features
+Sensors
+Accelerometer, gyro, proximity, compass
+
+
+Browser
+HTML5 (Safari)
+
+ iCloud cloud service
+MP3/WAV player
+MP4/H.264 player
+Document viewer
+
+
+
+Battery
+Type
+Li-Po 1420 mAh, non-removable
+
+
+
+
+Misc
+Colors
+Black, White
+
+
+Models
+iPhone 3,3
+
+
+SAR
+1.18 W/kg (head)     0.87 W/kg (body)     
+
+
+Price
+About 150 EUR
+____
+Network
+Technology
+GSM / HSPA
+
+
+2G bands
+GSM 850 / 900 / 1800 / 1900 
+
+3G bands
+HSDPA 850 / 1900 / 2100 
+
+
+Speed
+HSPA
+
+
+
+
+Launch
+Announced
+2008, June. Released 2008, July
+
+
+Status
+Discontinued
+
+
+
+
+Body
+Dimensions
+115.5 x 62.1 x 12.3 mm (4.55 x 2.44 x 0.48 in)
+
+Weight
+133 g (4.69 oz)
+
+
+SIM
+Mini-SIM
+
+
+
+
+Display
+Type
+TFT
+
+
+Size
+3.5 inches, 36.5 cm2 (~50.9% screen-to-body ratio)
+
+
+Resolution
+320 x 480 pixels, 3:2 ratio (~165 ppi density)
+
+
+Protection
+Corning Gorilla Glass, oleophobic coating
+
+
+
+
+Platform
+OS
+iOS, upgradable to iOS 4.2.1
+
+CPU
+412 MHz ARM 11
+
+GPU
+PowerVR MBX
+
+
+
+
+Memory
+Card slot
+No
+
+Internal
+8GB 128MB RAM, 16GB 128MB RAM
+
+
+
+
+
+
+Main Camera
+Single
+2 MP
+
+
+Video
+No
+
+
+
+
+Selfie camera
+ 
+No
+
+
+
+
+Sound
+Loudspeaker 
+Yes
+
+
+Alert types
+Vibration, proprietary ringtones
+
+
+3.5mm jack 
+Yes
+
+
+
+
+Comms
+WLAN
+Wi-Fi 802.11b/g
+
+
+Bluetooth
+2.0, A2DP (headset support only)
+
+
+Positioning
+GPS, A-GPS
+
+
+Radio
+No
+
+
+USB
+2.0
+
+
+
+
+Features
+Sensors
+Accelerometer, proximity
+
+
+Browser
+HTML (Safari)
+
+ Audio/video player
+TV-out
+Organizer
+Document viewer
+Photo viewer
+Predictive text input
+
+
+
+Battery
+Type
+Li-Ion 1220 mAh, non-removable
+
+
+
+
+Misc
+Colors
+Black(8/16 GB), White (16 GB)
+
+
+Models
+iPhone1,2
+
+
+SAR
+0.52 W/kg (head)     1.29 W/kg (body)     
+
+
+SAR EU
+0.56 W/kg (head)     0.23 W/kg (body)     
+
+
+Price
+About 90 EUR
+
+
+
+
+Noise -89.9dB / Crosstalk -93.1dB
+____
+Network
+Technology
+GSM
+
+
+2G bands
+GSM 850 / 900 / 1800 / 1900 
+
+
+GPRS
+Yes
+
+
+EDGE
+Yes
+
+
+
+
+Launch
+Announced
+2007, January. Released 2007, June
+
+
+Status
+Discontinued
+
+
+
+
+Body
+Dimensions
+115 x 61 x 11.6 mm (4.53 x 2.40 x 0.46 in)
+
+Weight
+135 g (4.76 oz)
+
+
+SIM
+Mini-SIM
+
+
+
+
+Display
+Type
+TFT
+
+
+Size
+3.5 inches, 36.5 cm2 (~52.0% screen-to-body ratio)
+
+
+Resolution
+320 x 480 pixels, 3:2 ratio (~165 ppi density)
+
+
+Protection
+Corning Gorilla Glass, oleophobic coating
+
+
+
+
+Platform
+OS
+iOS, upgradable to iOS 3.1.3
+
+CPU
+412 MHz ARM 11
+
+GPU
+PowerVR MBX
+
+
+
+
+Memory
+Card slot
+No
+
+Internal
+4/8/16GB
+
+
+
+
+
+
+Main Camera
+Single
+2 MP
+
+
+Video
+No
+
+
+
+
+Selfie camera
+ 
+No
+
+
+
+
+Sound
+Loudspeaker 
+Yes
+
+
+Alert types
+Vibration, proprietary ringtones
+
+
+3.5mm jack 
+Yes
+
+
+
+
+Comms
+WLAN
+Wi-Fi 802.11b/g
+
+
+Bluetooth
+2.0 (headset support only)
+
+
+Positioning
+No
+
+
+Radio
+No
+
+
+USB
+2.0
+
+
+
+
+Features
+Sensors
+Accelerometer, proximity
+
+
+Browser
+HTML (Safari)
+
+ Google Maps
+Audio/video player
+TV-out
+Organizer
+Document viewer
+Photo viewer
+Predictive text input
+
+
+
+Battery
+Type
+Li-Ion 1400 mAh, non-removable
+
+
+
+
+Misc
+Colors
+Black
+
+
+Models
+A1203, iPhone1,1
+
+
+SAR
+0.97 W/kg (head)     0.38 W/kg (body)     
+
+
+SAR EU
+0.97 W/kg (head)     0.69 W/kg (body)     
+
+
+Price
+About 420 EUR
+____
+Network
+Technology
+CDMA / EVDO
+
+
+2G bands
+CDMA 800 / 1900 
+
+3G bands
+CDMA2000 1xEV-DO 
+
+
+Speed
+EV-DO Rev.A 3.1 Mbps
+
+
+
+
+Launch
+Announced
+2011, January. Released 2011, February
+
+
+Status
+Discontinued
+
+
+
+
+Body
+Dimensions
+115.2 x 58.6 x 9.3 mm (4.54 x 2.31 x 0.37 in)
+
+Weight
+137 g (4.83 oz)
+
+
+SIM
+Micro-SIM
+
+
+
+
+Display
+Type
+IPS LCD
+
+
+Size
+3.5 inches, 36.5 cm2 (~54.0% screen-to-body ratio)
+
+
+Resolution
+640 x 960 pixels, 3:2 ratio (~330 ppi density)
+
+
+Protection
+Corning Gorilla Glass, oleophobic coating
+
+
+
+
+Platform
+OS
+iOS 4, upgradable to iOS 7.1.1
+
+Chipset
+Apple A4 (45 nm)
+
+CPU
+1.0 GHz Cortex-A8
+
+GPU
+PowerVR SGX535
+
+
+
+
+Memory
+Card slot
+No
+
+Internal
+16GB 512MB RAM, 32GB 512MB RAM
+
+
+
+
+
+
+Main Camera
+Single
+5 MP, AF
+
+
+Features
+LED flash, HDR
+
+
+Video
+720p@30fps
+
+
+
+
+Selfie camera
+ 
+Videocalling over Wi-Fi only
+
+
+
+
+Sound
+Loudspeaker 
+Yes
+
+
+3.5mm jack 
+Yes
+
+
+
+
+Comms
+WLAN
+Wi-Fi 802.11 b/g/n
+
+
+Bluetooth
+2.1, A2DP
+
+
+Positioning
+GPS, A-GPS
+
+
+Radio
+No
+
+
+USB
+2.0
+
+
+
+
+Features
+Sensors
+Accelerometer, gyro, proximity, compass
+
+
+Browser
+HTML5 (Safari)
+
+ iCloud cloud service
+MP3/WAV player
+MP4/H.264 player
+Document viewer
+
+
+
+Battery
+Type
+Li-Po 1420 mAh, non-removable
+
+
+
+
+Misc
+Colors
+Black, White
+
+
+Models
+iPhone 3,3
+
+
+SAR
+1.18 W/kg (head)     0.87 W/kg (body)     
+
+
+Price
+About 150 EUR
+____
+Network
+Technology
+GSM / HSPA
+
+
+2G bands
+GSM 850 / 900 / 1800 / 1900 
+
+3G bands
+HSDPA 850 / 1900 / 2100 
+
+
+Speed
+HSPA
+
+
+
+
+Launch
+Announced
+2008, June. Released 2008, July
+
+
+Status
+Discontinued
+
+
+
+
+Body
+Dimensions
+115.5 x 62.1 x 12.3 mm (4.55 x 2.44 x 0.48 in)
+
+Weight
+133 g (4.69 oz)
+
+
+SIM
+Mini-SIM
+
+
+
+
+Display
+Type
+TFT
+
+
+Size
+3.5 inches, 36.5 cm2 (~50.9% screen-to-body ratio)
+
+
+Resolution
+320 x 480 pixels, 3:2 ratio (~165 ppi density)
+
+
+Protection
+Corning Gorilla Glass, oleophobic coating
+
+
+
+
+Platform
+OS
+iOS, upgradable to iOS 4.2.1
+
+CPU
+412 MHz ARM 11
+
+GPU
+PowerVR MBX
+
+
+
+
+Memory
+Card slot
+No
+
+Internal
+8GB 128MB RAM, 16GB 128MB RAM
+
+
+
+
+
+
+Main Camera
+Single
+2 MP
+
+
+Video
+No
+
+
+
+
+Selfie camera
+ 
+No
+
+
+
+
+Sound
+Loudspeaker 
+Yes
+
+
+Alert types
+Vibration, proprietary ringtones
+
+
+3.5mm jack 
+Yes
+
+
+
+
+Comms
+WLAN
+Wi-Fi 802.11b/g
+
+
+Bluetooth
+2.0, A2DP (headset support only)
+
+
+Positioning
+GPS, A-GPS
+
+
+Radio
+No
+
+
+USB
+2.0
+
+
+
+
+Features
+Sensors
+Accelerometer, proximity
+
+
+Browser
+HTML (Safari)
+
+ Audio/video player
+TV-out
+Organizer
+Document viewer
+Photo viewer
+Predictive text input
+
+
+
+Battery
+Type
+Li-Ion 1220 mAh, non-removable
+
+
+
+
+Misc
+Colors
+Black(8/16 GB), White (16 GB)
+
+
+Models
+iPhone1,2
+
+
+SAR
+0.52 W/kg (head)     1.29 W/kg (body)     
+
+
+SAR EU
+0.56 W/kg (head)     0.23 W/kg (body)     
+
+
+Price
+About 90 EUR
+
+
+
+
+Noise -89.9dB / Crosstalk -93.1dB
+____
+Network
+Technology
+GSM
+
+
+2G bands
+GSM 850 / 900 / 1800 / 1900 
+
+
+GPRS
+Yes
+
+
+EDGE
+Yes
+
+
+
+
+Launch
+Announced
+2007, January. Released 2007, June
+
+
+Status
+Discontinued
+
+
+
+
+Body
+Dimensions
+115 x 61 x 11.6 mm (4.53 x 2.40 x 0.46 in)
+
+Weight
+135 g (4.76 oz)
+
+
+SIM
+Mini-SIM
+
+
+
+
+Display
+Type
+TFT
+
+
+Size
+3.5 inches, 36.5 cm2 (~52.0% screen-to-body ratio)
+
+
+Resolution
+320 x 480 pixels, 3:2 ratio (~165 ppi density)
+
+
+Protection
+Corning Gorilla Glass, oleophobic coating
+
+
+
+
+Platform
+OS
+iOS, upgradable to iOS 3.1.3
+
+CPU
+412 MHz ARM 11
+
+GPU
+PowerVR MBX
+
+
+
+
+Memory
+Card slot
+No
+
+Internal
+4/8/16GB
+
+
+
+
+
+
+Main Camera
+Single
+2 MP
+
+
+Video
+No
+
+
+
+
+Selfie camera
+ 
+No
+
+
+
+
+Sound
+Loudspeaker 
+Yes
+
+
+Alert types
+Vibration, proprietary ringtones
+
+
+3.5mm jack 
+Yes
+
+
+
+
+Comms
+WLAN
+Wi-Fi 802.11b/g
+
+
+Bluetooth
+2.0 (headset support only)
+
+
+Positioning
+No
+
+
+Radio
+No
+
+
+USB
+2.0
+
+
+
+
+Features
+Sensors
+Accelerometer, proximity
+
+
+Browser
+HTML (Safari)
+
+ Google Maps
+Audio/video player
+TV-out
+Organizer
+Document viewer
+Photo viewer
+Predictive text input
+
+
+
+Battery
+Type
+Li-Ion 1400 mAh, non-removable
+
+
+
+
+Misc
+Colors
+Black
+
+
+Models
+A1203, iPhone1,1
+
+
+SAR
+0.97 W/kg (head)     0.38 W/kg (body)     
+
+
+SAR EU
+0.97 W/kg (head)     0.69 W/kg (body)     
+
+
+Price
+About 420 EUR
+____
+Versions (2016): T719N (3G/LTE)
+Versions (2015): T710 (Wi-Fi); T715 (3G/LTE)
+
+
+Network
+Technology
+GSM / HSPA / LTE
+
+
+2G bands
+GSM 850 / 900 / 1800 / 1900 
+
+3G bands
+HSDPA 850 / 900 / 1900 / 2100 
+
+
+4G bands
+1, 2, 3, 4, 5, 7, 8, 17, 20
+
+
+Speed
+HSPA, LTE
+
+
+
+
+Launch
+Announced
+2015, July. Released 2015, September
+
+
+Status
+Discontinued
+
+
+
+
+Body
+Dimensions
+198.6 x 134.8 x 5.6 mm (7.82 x 5.31 x 0.22 in)
+
+Weight
+265 g (Wi-Fi) / 272 g (LTE) (9.35 oz)
+
+
+SIM
+Nano-SIM
+
+
+
+
+Display
+Type
+Super AMOLED
+
+
+Size
+8.0 inches, 198.2 cm2 (~74.0% screen-to-body ratio)
+
+
+Resolution
+1536 x 2048 pixels, 4:3 ratio (~320 ppi density)
+
+
+
+
+Platform
+OS
+Android 5.0.2 (Lollipop), upgradable to 6.0.1 (Marshmallow) - T710, T715Android 6.0.1 (Marshmallow), upgradable to 7.0 (Nougat) - T719N
+
+Chipset
+Exynos 5433 - T710, T715Qualcomm MSM8976 Snapdragon 652 (28 nm) - T719N
+
+CPU
+Octa-core (4x1.9 GHz & 4x1.3 GHz) - T710, T715Octa-core (4x1.8 GHz Cortex-A72 & 4x1.4 GHz Cortex-A53) - T719N
+
+GPU
+Mali-T760 MP6 - T710, T715Adreno 510 - T719N
+
+
+
+
+Memory
+Card slot
+microSDXC (dedicated slot)
+
+Internal
+32GB 3GB RAM, 64GB 3GB RAM
+
+ eMMC 5.0 or eMMC 5.1
+
+
+
+
+
+Main Camera
+Single
+8 MP, AF
+
+
+Video
+1440p@30fps
+
+
+
+
+Selfie camera
+Single
+2.1 MP
+
+
+Video
+
+
+
+
+
+Sound
+Loudspeaker 
+Yes
+
+
+3.5mm jack 
+Yes
+
+
+
+
+Comms
+WLAN
+Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct
+
+
+Bluetooth
+4.1, A2DP, LE
+
+
+Positioning
+GPS, GLONASS
+
+
+NFC
+No
+
+
+Radio
+No
+
+
+USB
+microUSB 2.0 (MHL TV-out)
+
+
+
+
+Features
+Sensors
+Fingerprint (front-mounted), accelerometer, gyro, proximity, compass
+
+ ANT+
+
+
+
+Battery
+Type
+Li-Ion 4000 mAh, non-removable
+
+
+Talk time
+Up to 27 h (3G)
+
+
+Music play
+Up to 74 h
+
+
+
+
+Misc
+Colors
+White, black gold
+
+
+Models
+SM-T715, SM-T710, SM-T719N, SM-T719, SM-T715Y, SM-T719Y, SM-T713
+
+
+SAR
+0.96 W/kg (head)     1.59 W/kg (body)     
+
+
+SAR EU
+0.34 W/kg (head)     0.47 W/kg (body)     
+
+
+Price
+About 290 EUR
+____
+Versions: E500F, E500H, E500HQ, E500M, E500F/DS, E500H/DS, E500M/DS
+Also known as Samsung Galaxy E5 Duos with dual-SIM card slots
+
+
+Network
+Technology
+GSM / HSPA
+
+
+2G bands
+GSM 850 / 900 / 1800 / 1900 - E500F, E500H, E500HQ, E500M
+
+ 
+GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 - E500F/DS, E500H/DS, E500M/DS
+
+
+3G bands
+HSDPA 850 / 900 / 1900 / 2100 
+
+
+Speed
+HSPA 42.2/5.76 Mbps
+
+
+
+
+Launch
+Announced
+2015, January. Released 2015, February
+
+
+Status
+Discontinued
+
+
+
+
+Body
+Dimensions
+141.6 x 70.2 x 7.3 mm (5.57 x 2.76 x 0.29 in)
+
+Weight
+140 g (4.94 oz)
+
+
+Build
+Glass front (Gorilla Glass 4), plastic back, plastic frame
+
+
+SIM
+Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)
+
+
+
+
+Display
+Type
+Super AMOLED
+
+
+Size
+5.0 inches, 68.9 cm2 (~69.3% screen-to-body ratio)
+
+
+Resolution
+720 x 1280 pixels, 16:9 ratio (~294 ppi density)
+
+
+Protection
+Corning Gorilla Glass 4
+
+
+
+
+Platform
+OS
+Android 4.4.4 (KitKat)
+
+Chipset
+Qualcomm MSM8916 Snapdragon 410 (28 nm)
+
+CPU
+Quad-core 1.2 GHz Cortex-A53
+
+GPU
+Adreno 306
+
+
+
+
+Memory
+Card slot
+microSDXC (uses shared SIM slot)
+
+Internal
+16GB 1.5GB RAM
+
+ eMMC 4.5
+
+
+
+
+
+Main Camera
+Single
+8 MP, f/2.2, 31mm (standard), AF
+
+
+Features
+LED flash, panorama
+
+
+Video
+1080p@30fps
+
+
+
+
+Selfie camera
+Single
+5 MP, f/2.2, 23mm (wide)
+
+
+Video
+1080p@30fps
+
+
+
+
+Sound
+Loudspeaker 
+Yes
+
+
+3.5mm jack 
+Yes
+
+
+
+
+Comms
+WLAN
+Wi-Fi 802.11 b/g/n, hotspot
+
+
+Bluetooth
+4.0, A2DP
+
+
+Positioning
+GPS, GLONASS
+
+
+NFC
+No
+
+
+Radio
+FM radio
+
+
+USB
+microUSB 2.0
+
+
+
+
+Features
+Sensors
+Accelerometer, proximity
+
+
+
+
+Battery
+Type
+Li-Ion 2400 mAh, non-removable
+
+
+
+
+Misc
+Colors
+Black, White, Brown
+
+
+Models
+SM-E500F, SM-E500F, SM-E500H, SM-E500H/DD, SM-E500H, SM-E500HQ, SM-E500M, SM-E500M, SM-E500YZ
+
+
+SAR
+1.00 W/kg (head)     0.87 W/kg (body)     
+
+
+SAR EU
+0.39 W/kg (head)     0.29 W/kg (body)     
+
+
+Price
+About 200 EUR
+____
+Tablet with support for GSM voice communication, SMS, and MMS
+Also known as Samsung T365
+
+
+Network
+Technology
+GSM / HSPA / LTE
+
+
+2G bands
+GSM 900 / 1800 / 1900 
+
+3G bands
+HSDPA 850 / 900 / 1900 / 2100 
+
+
+4G bands
+1, 3, 5, 7, 8, 20
+
+
+Speed
+HSPA 42.2/11.5 Mbps, LTE Cat4 150/50 Mbps
+
+
+
+
+Launch
+Announced
+2014, September. Released 2014, December
+
+
+Status
+Discontinued
+
+
+
+
+Body
+Dimensions
+213.1 x 126.2 x 9.7 mm (8.39 x 4.97 x 0.38 in)
+
+Weight
+393 g (13.86 oz)
+
+
+SIM
+Micro-SIM
+
+ IP67 dust/water resistant (up to 1m for 30 min)
+Stylus
+
+
+
+Display
+Type
+LCD
+
+
+Size
+8.0 inches, 185.6 cm2 (~69.0% screen-to-body ratio)
+
+
+Resolution
+800 x 1280 pixels, 16:10 ratio (~189 ppi density)
+
+
+
+
+Platform
+OS
+Android 4.4.2 (KitKat), TouchWiz UI
+
+Chipset
+Qualcomm Snapdragon 400 (28 nm)
+
+CPU
+Quad-core 1.2 GHz Cortex-A7
+
+GPU
+Adreno 305
+
+
+
+
+Memory
+Card slot
+microSDXC (dedicated slot)
+
+Internal
+16GB 1.5GB RAM
+
+ eMMC 4.5
+
+
+
+
+
+Main Camera
+Single
+3.15 MP, AF
+
+
+Features
+LED flash
+
+
+Video
+720p@30fps
+
+
+
+
+Selfie camera
+Single
+1.2 MP
+
+
+Video
+
+
+
+
+
+Sound
+Loudspeaker 
+Yes, with stereo speakers
+
+
+3.5mm jack 
+Yes
+
+
+
+
+Comms
+WLAN
+Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, hotspot
+
+
+Bluetooth
+4.0, A2DP, LE
+
+
+Positioning
+GPS, GLONASS
+
+
+NFC
+Yes
+
+
+Radio
+No
+
+
+USB
+microUSB 2.0
+
+
+
+
+Features
+Sensors
+Accelerometer, gyro, compass
+
+ ANT+
+
+
+
+Battery
+Type
+Li-Ion 4450 mAh, removable
+
+
+Talk time
+Up to 11 h (multimedia) (2G) / Up to 31 h (3G)
+
+
+Music play
+Up to 128 h
+
+
+
+
+Misc
+Colors
+Titanium Green
+
+
+Models
+SM-T365
+
+
+Price
+About 350 EUR
+____
+Versions:
+G850A for AT&T
+G850W for Canada
+G8508S for East & Southeast Asia
+
+
+Network
+Technology
+GSM / HSPA / LTE
+
+
+2G bands
+GSM 850 / 900 / 1800 / 1900 
+
+3G bands
+HSDPA 850 / 900 / 1900 / 2100 TD-SCDMA
+
+
+ 
+HSDPA 850 / 1900 / 2100 - G850A, SM-G850W
+
+
+4G bands
+1, 3, 7, 38, 39, 40, 41 - G8508S
+
+
+ 
+1, 2, 3, 4, 5, 7, 17 - G850A, SM-G850W
+
+
+Speed
+HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps
+
+
+
+
+Launch
+Announced
+2014, August. Released 2014, September
+
+
+Status
+Discontinued
+
+
+
+
+Body
+Dimensions
+132.4 x 65.5 x 6.7 mm (5.21 x 2.58 x 0.26 in)
+
+Weight
+115 g (4.06 oz)
+
+
+SIM
+Nano-SIM
+
+
+
+
+Display
+Type
+Super AMOLED
+
+
+Size
+4.7 inches, 60.9 cm2 (~70.2% screen-to-body ratio)
+
+
+Resolution
+720 x 1280 pixels, 16:9 ratio (~312 ppi density)
+
+
+Protection
+Corning Gorilla Glass 4
+
+
+
+
+Platform
+OS
+Android 4.4.4 (KitKat), upgradable to 5.0 (Lollipop)
+
+Chipset
+Qualcomm MSM8974AC Snapdragon 801 (28 nm)
+
+CPU
+Quad-core 2.5 GHz Krait 400
+
+GPU
+Adreno 330
+
+
+
+
+Memory
+Card slot
+No
+
+Internal
+32GB 2GB RAM
+
+ eMMC 5.0
+
+
+
+
+
+Main Camera
+Single
+12 MP, f/2.2, 31mm (standard), PDAF
+
+
+Features
+LED flash, panorama, HDR
+
+
+Video
+4K@30fps, 1080p@60fps, 720p@120fps
+
+
+
+
+Selfie camera
+Single
+2.1 MP
+
+
+Video
+
+
+
+
+
+Sound
+Loudspeaker 
+Yes
+
+
+3.5mm jack 
+Yes
+
+
+
+
+Comms
+WLAN
+Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot
+
+
+Bluetooth
+4.0, A2DP, EDR, LE
+
+
+Positioning
+GPS, GLONASS, BDS
+
+
+NFC
+Yes
+
+
+Radio
+No
+
+
+USB
+microUSB 2.0
+
+
+
+
+Features
+Sensors
+Fingerprint (front-mounted), accelerometer, gyro, proximity, compass, heart rate
+
+ ANT+
+
+
+
+Battery
+Type
+Li-Ion 1860 mAh, removable
+
+
+Stand-by
+Up to 312 h (3G)
+
+
+Talk time
+Up to 13 h (3G)
+
+
+Music play
+Up to 59 h
+
+
+
+
+Misc
+Colors
+Charcoal Black, Sleek Silver, Dazzling White, Frosted Gold, Scuba Blue
+
+
+Models
+SM-G8508S, SM-G850W, SM-G850A
+
+
+SAR
+1.25 W/kg (head)     1.05 W/kg (body)     
+
+
+SAR EU
+0.40 W/kg (head)     0.27 W/kg (body)     
+
+
+Price
+About 450 EUR
+____
+Versions (2016): T719N (3G/LTE)
+Versions (2015): T710 (Wi-Fi); T715 (3G/LTE)
+
+
+Network
+Technology
+GSM / HSPA / LTE
+
+
+2G bands
+GSM 850 / 900 / 1800 / 1900 
+
+3G bands
+HSDPA 850 / 900 / 1900 / 2100 
+
+
+4G bands
+1, 2, 3, 4, 5, 7, 8, 17, 20
+
+
+Speed
+HSPA, LTE
+
+
+
+
+Launch
+Announced
+2015, July. Released 2015, September
+
+
+Status
+Discontinued
+
+
+
+
+Body
+Dimensions
+198.6 x 134.8 x 5.6 mm (7.82 x 5.31 x 0.22 in)
+
+Weight
+265 g (Wi-Fi) / 272 g (LTE) (9.35 oz)
+
+
+SIM
+Nano-SIM
+
+
+
+
+Display
+Type
+Super AMOLED
+
+
+Size
+8.0 inches, 198.2 cm2 (~74.0% screen-to-body ratio)
+
+
+Resolution
+1536 x 2048 pixels, 4:3 ratio (~320 ppi density)
+
+
+
+
+Platform
+OS
+Android 5.0.2 (Lollipop), upgradable to 6.0.1 (Marshmallow) - T710, T715Android 6.0.1 (Marshmallow), upgradable to 7.0 (Nougat) - T719N
+
+Chipset
+Exynos 5433 - T710, T715Qualcomm MSM8976 Snapdragon 652 (28 nm) - T719N
+
+CPU
+Octa-core (4x1.9 GHz & 4x1.3 GHz) - T710, T715Octa-core (4x1.8 GHz Cortex-A72 & 4x1.4 GHz Cortex-A53) - T719N
+
+GPU
+Mali-T760 MP6 - T710, T715Adreno 510 - T719N
+
+
+
+
+Memory
+Card slot
+microSDXC (dedicated slot)
+
+Internal
+32GB 3GB RAM, 64GB 3GB RAM
+
+ eMMC 5.0 or eMMC 5.1
+
+
+
+
+
+Main Camera
+Single
+8 MP, AF
+
+
+Video
+1440p@30fps
+
+
+
+
+Selfie camera
+Single
+2.1 MP
+
+
+Video
+
+
+
+
+
+Sound
+Loudspeaker 
+Yes
+
+
+3.5mm jack 
+Yes
+
+
+
+
+Comms
+WLAN
+Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct
+
+
+Bluetooth
+4.1, A2DP, LE
+
+
+Positioning
+GPS, GLONASS
+
+
+NFC
+No
+
+
+Radio
+No
+
+
+USB
+microUSB 2.0 (MHL TV-out)
+
+
+
+
+Features
+Sensors
+Fingerprint (front-mounted), accelerometer, gyro, proximity, compass
+
+ ANT+
+
+
+
+Battery
+Type
+Li-Ion 4000 mAh, non-removable
+
+
+Talk time
+Up to 27 h (3G)
+
+
+Music play
+Up to 74 h
+
+
+
+
+Misc
+Colors
+White, black gold
+
+
+Models
+SM-T715, SM-T710, SM-T719N, SM-T719, SM-T715Y, SM-T719Y, SM-T713
+
+
+SAR
+0.96 W/kg (head)     1.59 W/kg (body)     
+
+
+SAR EU
+0.34 W/kg (head)     0.47 W/kg (body)     
+
+
+Price
+About 290 EUR
+____
+Network
+Technology
+GSM / HSPA / LTE
+
+
+2G bands
+GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 (dual-SIM model only)
+
+3G bands
+HSDPA 850 / 900 / 1900 / 2100 - International
+
+
+ 
+HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - USA
+
+
+4G bands
+1, 3, 5, 7, 8, 20, 38, 40, 41 - International
+
+
+ 
+1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 28, 38, 40, 41, 66 - USA
+
+
+Speed
+HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps
+
+
+
+
+Launch
+Announced
+2018, April
+
+
+Status
+Available. Released 2018, April
+
+
+
+
+Body
+Dimensions
+153.5 x 77.2 x 8.2 mm (6.04 x 3.04 x 0.32 in)
+
+Weight
+174 g (6.14 oz)
+
+
+SIM
+Single SIM (Micro-SIM) or Dual SIM (Micro-SIM, dual stand-by)
+
+
+
+
+Display
+Type
+Super AMOLED
+
+
+Size
+5.5 inches, 83.4 cm2 (~70.4% screen-to-body ratio)
+
+
+Resolution
+720 x 1280 pixels, 16:9 ratio (~267 ppi density)
+
+
+
+
+Platform
+OS
+Android 8.0 (Oreo), upgradable to Android 9.0 (Pie)
+
+Chipset
+Exynos 7885 (14 nm)
+
+CPU
+Octa-core (2x2.2 GHz Cortex-A73 & 6x1.6 GHz Cortex-A53)
+
+GPU
+Mali-G71
+
+
+
+
+Memory
+Card slot
+microSDXC (dedicated slot)
+
+Internal
+32GB 3GB RAM, 32GB 4GB RAM
+
+ eMMC 5.1
+
+
+
+
+
+Main Camera
+Dual
+13 MP, f/1.9, AF
+5 MP, f/1.9, (depth)
+
+
+Features
+LED flash, panorama, HDR
+
+
+Video
+1080p@30fps
+
+
+
+
+Selfie camera
+Single
+8 MP, f/1.9
+
+
+Features
+LED flash
+
+
+Video
+1080p@30fps
+
+
+
+
+Sound
+Loudspeaker 
+Yes
+
+
+3.5mm jack 
+Yes
+
+
+
+
+Comms
+WLAN
+Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct
+
+
+Bluetooth
+4.2, A2DP, LE
+
+
+Positioning
+GPS, GLONASS, BDS
+
+
+NFC
+No
+
+
+Radio
+FM radio
+
+
+USB
+microUSB 2.0
+
+
+
+
+Features
+Sensors
+Fingerprint (front-mounted), accelerometer, proximity
+
+ ANT+
+
+
+
+Battery
+Type
+Li-Ion 3000 mAh, removable
+
+
+
+
+Misc
+Colors
+Black, Gold, Rose Gold, White, Blue
+
+
+Models
+SM-J720F, SM-J720F/DS, SM-J720M, SM-J720M/DS
+
+
+SAR EU
+0.54 W/kg (head)     1.40 W/kg (body)     
+
+
+Price
+About 240 EUR
+____
+Network
+Technology
+GSM / HSPA
+
+
+2G bands
+GSM 850 / 900 / 1800 / 1900 
+
+3G bands
+HSDPA 900 / 2100 
+
+
+Speed
+HSPA 21.1/5.76 Mbps
+
+
+
+
+Launch
+Announced
+2014, June. Released 2014, August
+
+
+Status
+Discontinued
+
+
+
+
+Body
+Dimensions
+121.4 x 62.9 x 10.8 mm (4.78 x 2.48 x 0.43 in)
+
+Weight
+123.8 g (4.37 oz)
+
+
+Build
+Glass front, plastic back, plastic frame
+
+
+SIM
+Micro-SIM
+
+
+
+
+Display
+Type
+TFT
+
+
+Size
+4.0 inches, 45.5 cm2 (~59.6% screen-to-body ratio)
+
+
+Resolution
+480 x 800 pixels, 5:3 ratio (~233 ppi density)
+
+
+
+
+Platform
+OS
+Android 4.4.2 (KitKat)
+
+CPU
+Dual-core 1.0 GHz
+
+
+
+
+Memory
+Card slot
+microSDXC (dedicated slot)
+
+Internal
+4GB 512MB RAM
+
+
+
+
+
+
+Main Camera
+Single
+5 MP, AF
+
+
+Features
+LED flash, panorama
+
+
+Video
+720p@30fps
+
+
+
+
+Selfie camera
+Single
+VGA
+
+
+Video
+
+
+
+
+
+Sound
+Loudspeaker 
+Yes
+
+
+3.5mm jack 
+Yes
+
+
+
+
+Comms
+WLAN
+Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot
+
+
+Bluetooth
+4.0, A2DP
+
+
+Positioning
+GPS, GLONASS
+
+
+NFC
+No
+
+
+Radio
+FM radio
+
+
+USB
+microUSB 2.0
+
+
+
+
+Features
+Sensors
+Accelerometer
+
+
+
+
+Battery
+Type
+Li-Ion 1500 mAh, removable
+
+
+Talk time
+Up to 11 h (3G)
+
+
+Music play
+Up to 53 h
+
+
+
+
+Misc
+Colors
+Iris Charcoal, Classic White
+
+
+Price
+About 220 EUR
+____
+For Sprint
+Also known as Samsung G860P
+
+
+Network
+Technology
+GSM / CDMA / HSPA / LTE
+
+
+2G bands
+GSM 850 / 900 / 1800 / 1900 
+
+ 
+CDMA 800 / 1900 
+
+
+3G bands
+HSDPA 850 / 900 / 1900 / 2100 
+
+
+4G bands
+25, 26, 41
+
+
+Speed
+HSPA 42.2/11.5 Mbps, LTE Cat4 150/50 Mbps
+
+
+
+
+Launch
+Announced
+2014, June. Released 2014, June
+
+
+Status
+Discontinued
+
+
+
+
+Body
+Dimensions
+144 x 74 x 8.9 mm (5.67 x 2.91 x 0.35 in)
+
+Weight
+158 g (5.57 oz)
+
+
+SIM
+Micro-SIM
+
+ IP67 dust/water resistant (up to 1m for 30 min)
+
+
+
+Display
+Type
+Super AMOLED
+
+
+Size
+5.1 inches, 71.7 cm2 (~67.3% screen-to-body ratio)
+
+
+Resolution
+1080 x 1920 pixels, 16:9 ratio (~432 ppi density)
+
+
+Protection
+Corning Gorilla Glass 3
+
+
+
+
+Platform
+OS
+Android 4.4.2 (KitKat), upgradable to 6.0 (Marshmallow), TouchWiz UI
+
+Chipset
+Qualcomm Snapdragon 801 (28 nm)
+
+CPU
+Quad-core 2.5 GHz Krait 400
+
+GPU
+Adreno 330
+
+
+
+
+Memory
+Card slot
+microSDXC (dedicated slot)
+
+Internal
+16GB 2GB RAM
+
+ eMMC 5.0
+
+
+
+
+
+Main Camera
+Single
+16 MP, 1/2.6", 1.12µm, AF
+
+
+Features
+LED flash, panorama, HDR
+
+
+Video
+4K@30fps, 1080p@30fps
+
+
+
+
+Selfie camera
+Single
+2 MP
+
+
+Video
+1080p@30fps
+
+
+
+
+Sound
+Loudspeaker 
+Yes
+
+
+3.5mm jack 
+Yes
+
+
+
+
+Comms
+WLAN
+Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot
+
+
+Bluetooth
+4.0, A2DP, EDR, LE, aptX
+
+
+Positioning
+GPS, GLONASS
+
+
+NFC
+Yes
+
+
+Radio
+No
+
+
+USB
+microUSB 2.0 (MHL 2.1 TV-out), OTG
+
+
+
+
+Features
+Sensors
+Accelerometer, gyro, proximity, compass, barometer, heart rate
+
+ ANT+
+
+
+
+Battery
+Type
+Li-Ion 2800 mAh, removable
+
+
+Talk time
+Up to 29 h (3G)
+
+
+Music play
+Up to 77 h
+
+
+
+
+Misc
+Colors
+Electric Blue, Cherry Red
+
+
+Models
+SM-G860, SM-G860P
+
+
+SAR
+1.25 W/kg (head)     1.30 W/kg (body)     
+
+
+SAR EU
+0.51 W/kg (head)     0.47 W/kg (body)     
+
+
+Price
+About 300 EUR
+____
+Versions: E500F, E500H, E500HQ, E500M, E500F/DS, E500H/DS, E500M/DS
+Also known as Samsung Galaxy E5 Duos with dual-SIM card slots
+
+
+Network
+Technology
+GSM / HSPA
+
+
+2G bands
+GSM 850 / 900 / 1800 / 1900 - E500F, E500H, E500HQ, E500M
+
+ 
+GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 - E500F/DS, E500H/DS, E500M/DS
+
+
+3G bands
+HSDPA 850 / 900 / 1900 / 2100 
+
+
+Speed
+HSPA 42.2/5.76 Mbps
+
+
+
+
+Launch
+Announced
+2015, January. Released 2015, February
+
+
+Status
+Discontinued
+
+
+
+
+Body
+Dimensions
+141.6 x 70.2 x 7.3 mm (5.57 x 2.76 x 0.29 in)
+
+Weight
+140 g (4.94 oz)
+
+
+Build
+Glass front (Gorilla Glass 4), plastic back, plastic frame
+
+
+SIM
+Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)
+
+
+
+
+Display
+Type
+Super AMOLED
+
+
+Size
+5.0 inches, 68.9 cm2 (~69.3% screen-to-body ratio)
+
+
+Resolution
+720 x 1280 pixels, 16:9 ratio (~294 ppi density)
+
+
+Protection
+Corning Gorilla Glass 4
+
+
+
+
+Platform
+OS
+Android 4.4.4 (KitKat)
+
+Chipset
+Qualcomm MSM8916 Snapdragon 410 (28 nm)
+
+CPU
+Quad-core 1.2 GHz Cortex-A53
+
+GPU
+Adreno 306
+
+
+
+
+Memory
+Card slot
+microSDXC (uses shared SIM slot)
+
+Internal
+16GB 1.5GB RAM
+
+ eMMC 4.5
+
+
+
+
+
+Main Camera
+Single
+8 MP, f/2.2, 31mm (standard), AF
+
+
+Features
+LED flash, panorama
+
+
+Video
+1080p@30fps
+
+
+
+
+Selfie camera
+Single
+5 MP, f/2.2, 23mm (wide)
+
+
+Video
+1080p@30fps
+
+
+
+
+Sound
+Loudspeaker 
+Yes
+
+
+3.5mm jack 
+Yes
+
+
+
+
+Comms
+WLAN
+Wi-Fi 802.11 b/g/n, hotspot
+
+
+Bluetooth
+4.0, A2DP
+
+
+Positioning
+GPS, GLONASS
+
+
+NFC
+No
+
+
+Radio
+FM radio
+
+
+USB
+microUSB 2.0
+
+
+
+
+Features
+Sensors
+Accelerometer, proximity
+
+
+
+
+Battery
+Type
+Li-Ion 2400 mAh, non-removable
+
+
+
+
+Misc
+Colors
+Black, White, Brown
+
+
+Models
+SM-E500F, SM-E500F, SM-E500H, SM-E500H/DD, SM-E500H, SM-E500HQ, SM-E500M, SM-E500M, SM-E500YZ
+
+
+SAR
+1.00 W/kg (head)     0.87 W/kg (body)     
+
+
+SAR EU
+0.39 W/kg (head)     0.29 W/kg (body)     
+
+
+Price
+About 200 EUR
+____
+Tablet with support for GSM voice communication, SMS, and MMS
+Also known as Samsung T365
+
+
+Network
+Technology
+GSM / HSPA / LTE
+
+
+2G bands
+GSM 900 / 1800 / 1900 
+
+3G bands
+HSDPA 850 / 900 / 1900 / 2100 
+
+
+4G bands
+1, 3, 5, 7, 8, 20
+
+
+Speed
+HSPA 42.2/11.5 Mbps, LTE Cat4 150/50 Mbps
+
+
+
+
+Launch
+Announced
+2014, September. Released 2014, December
+
+
+Status
+Discontinued
+
+
+
+
+Body
+Dimensions
+213.1 x 126.2 x 9.7 mm (8.39 x 4.97 x 0.38 in)
+
+Weight
+393 g (13.86 oz)
+
+
+SIM
+Micro-SIM
+
+ IP67 dust/water resistant (up to 1m for 30 min)
+Stylus
+
+
+
+Display
+Type
+LCD
+
+
+Size
+8.0 inches, 185.6 cm2 (~69.0% screen-to-body ratio)
+
+
+Resolution
+800 x 1280 pixels, 16:10 ratio (~189 ppi density)
+
+
+
+
+Platform
+OS
+Android 4.4.2 (KitKat), TouchWiz UI
+
+Chipset
+Qualcomm Snapdragon 400 (28 nm)
+
+CPU
+Quad-core 1.2 GHz Cortex-A7
+
+GPU
+Adreno 305
+
+
+
+
+Memory
+Card slot
+microSDXC (dedicated slot)
+
+Internal
+16GB 1.5GB RAM
+
+ eMMC 4.5
+
+
+
+
+
+Main Camera
+Single
+3.15 MP, AF
+
+
+Features
+LED flash
+
+
+Video
+720p@30fps
+
+
+
+
+Selfie camera
+Single
+1.2 MP
+
+
+Video
+
+
+
+
+
+Sound
+Loudspeaker 
+Yes, with stereo speakers
+
+
+3.5mm jack 
+Yes
+
+
+
+
+Comms
+WLAN
+Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, hotspot
+
+
+Bluetooth
+4.0, A2DP, LE
+
+
+Positioning
+GPS, GLONASS
+
+
+NFC
+Yes
+
+
+Radio
+No
+
+
+USB
+microUSB 2.0
+
+
+
+
+Features
+Sensors
+Accelerometer, gyro, compass
+
+ ANT+
+
+
+
+Battery
+Type
+Li-Ion 4450 mAh, removable
+
+
+Talk time
+Up to 11 h (multimedia) (2G) / Up to 31 h (3G)
+
+
+Music play
+Up to 128 h
+
+
+
+
+Misc
+Colors
+Titanium Green
+
+
+Models
+SM-T365
+
+
+Price
+About 350 EUR
+____
+Versions:
+G850A for AT&T
+G850W for Canada
+G8508S for East & Southeast Asia
+
+
+Network
+Technology
+GSM / HSPA / LTE
+
+
+2G bands
+GSM 850 / 900 / 1800 / 1900 
+
+3G bands
+HSDPA 850 / 900 / 1900 / 2100 TD-SCDMA
+
+
+ 
+HSDPA 850 / 1900 / 2100 - G850A, SM-G850W
+
+
+4G bands
+1, 3, 7, 38, 39, 40, 41 - G8508S
+
+
+ 
+1, 2, 3, 4, 5, 7, 17 - G850A, SM-G850W
+
+
+Speed
+HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps
+
+
+
+
+Launch
+Announced
+2014, August. Released 2014, September
+
+
+Status
+Discontinued
+
+
+
+
+Body
+Dimensions
+132.4 x 65.5 x 6.7 mm (5.21 x 2.58 x 0.26 in)
+
+Weight
+115 g (4.06 oz)
+
+
+SIM
+Nano-SIM
+
+
+
+
+Display
+Type
+Super AMOLED
+
+
+Size
+4.7 inches, 60.9 cm2 (~70.2% screen-to-body ratio)
+
+
+Resolution
+720 x 1280 pixels, 16:9 ratio (~312 ppi density)
+
+
+Protection
+Corning Gorilla Glass 4
+
+
+
+
+Platform
+OS
+Android 4.4.4 (KitKat), upgradable to 5.0 (Lollipop)
+
+Chipset
+Qualcomm MSM8974AC Snapdragon 801 (28 nm)
+
+CPU
+Quad-core 2.5 GHz Krait 400
+
+GPU
+Adreno 330
+
+
+
+
+Memory
+Card slot
+No
+
+Internal
+32GB 2GB RAM
+
+ eMMC 5.0
+
+
+
+
+
+Main Camera
+Single
+12 MP, f/2.2, 31mm (standard), PDAF
+
+
+Features
+LED flash, panorama, HDR
+
+
+Video
+4K@30fps, 1080p@60fps, 720p@120fps
+
+
+
+
+Selfie camera
+Single
+2.1 MP
+
+
+Video
+
+
+
+
+
+Sound
+Loudspeaker 
+Yes
+
+
+3.5mm jack 
+Yes
+
+
+
+
+Comms
+WLAN
+Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot
+
+
+Bluetooth
+4.0, A2DP, EDR, LE
+
+
+Positioning
+GPS, GLONASS, BDS
+
+
+NFC
+Yes
+
+
+Radio
+No
+
+
+USB
+microUSB 2.0
+
+
+
+
+Features
+Sensors
+Fingerprint (front-mounted), accelerometer, gyro, proximity, compass, heart rate
+
+ ANT+
+
+
+
+Battery
+Type
+Li-Ion 1860 mAh, removable
+
+
+Stand-by
+Up to 312 h (3G)
+
+
+Talk time
+Up to 13 h (3G)
+
+
+Music play
+Up to 59 h
+
+
+
+
+Misc
+Colors
+Charcoal Black, Sleek Silver, Dazzling White, Frosted Gold, Scuba Blue
+
+
+Models
+SM-G8508S, SM-G850W, SM-G850A
+
+
+SAR
+1.25 W/kg (head)     1.05 W/kg (body)     
+
+
+SAR EU
+0.40 W/kg (head)     0.27 W/kg (body)     
+
+
+Price
+About 450 EUR
+____
+For Sprint
+Also known as Samsung G860P
+
+
+Network
+Technology
+GSM / CDMA / HSPA / LTE
+
+
+2G bands
+GSM 850 / 900 / 1800 / 1900 
+
+ 
+CDMA 800 / 1900 
+
+
+3G bands
+HSDPA 850 / 900 / 1900 / 2100 
+
+
+4G bands
+25, 26, 41
+
+
+Speed
+HSPA 42.2/11.5 Mbps, LTE Cat4 150/50 Mbps
+
+
+
+
+Launch
+Announced
+2014, June. Released 2014, June
+
+
+Status
+Discontinued
+
+
+
+
+Body
+Dimensions
+144 x 74 x 8.9 mm (5.67 x 2.91 x 0.35 in)
+
+Weight
+158 g (5.57 oz)
+
+
+SIM
+Micro-SIM
+
+ IP67 dust/water resistant (up to 1m for 30 min)
+
+
+
+Display
+Type
+Super AMOLED
+
+
+Size
+5.1 inches, 71.7 cm2 (~67.3% screen-to-body ratio)
+
+
+Resolution
+1080 x 1920 pixels, 16:9 ratio (~432 ppi density)
+
+
+Protection
+Corning Gorilla Glass 3
+
+
+
+
+Platform
+OS
+Android 4.4.2 (KitKat), upgradable to 6.0 (Marshmallow), TouchWiz UI
+
+Chipset
+Qualcomm Snapdragon 801 (28 nm)
+
+CPU
+Quad-core 2.5 GHz Krait 400
+
+GPU
+Adreno 330
+
+
+
+
+Memory
+Card slot
+microSDXC (dedicated slot)
+
+Internal
+16GB 2GB RAM
+
+ eMMC 5.0
+
+
+
+
+
+Main Camera
+Single
+16 MP, 1/2.6", 1.12µm, AF
+
+
+Features
+LED flash, panorama, HDR
+
+
+Video
+4K@30fps, 1080p@30fps
+
+
+
+
+Selfie camera
+Single
+2 MP
+
+
+Video
+1080p@30fps
+
+
+
+
+Sound
+Loudspeaker 
+Yes
+
+
+3.5mm jack 
+Yes
+
+
+
+
+Comms
+WLAN
+Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot
+
+
+Bluetooth
+4.0, A2DP, EDR, LE, aptX
+
+
+Positioning
+GPS, GLONASS
+
+
+NFC
+Yes
+
+
+Radio
+No
+
+
+USB
+microUSB 2.0 (MHL 2.1 TV-out), OTG
+
+
+
+
+Features
+Sensors
+Accelerometer, gyro, proximity, compass, barometer, heart rate
+
+ ANT+
+
+
+
+Battery
+Type
+Li-Ion 2800 mAh, removable
+
+
+Talk time
+Up to 29 h (3G)
+
+
+Music play
+Up to 77 h
+
+
+
+
+Misc
+Colors
+Electric Blue, Cherry Red
+
+
+Models
+SM-G860, SM-G860P
+
+
+SAR
+1.25 W/kg (head)     1.30 W/kg (body)     
+
+
+SAR EU
+0.51 W/kg (head)     0.47 W/kg (body)     
+
+
+Price
+About 300 EUR
+____
+1440x3088 pixels,Dynamic AMOLED 2X,501 ppi,Gorilla Glass Victus 2,200 MP, f/1.7, (wide), OIS,10 MP, f/4.9, (periscope telephoto), OIS, 10x optical zoom,10 MP, f/2.4, (telephoto), OIS, 3x optical zoom,12 MP, f/2.2, 120˚ (ultrawide), Super Steady video,45W Wired,65% in 30 min,10W Wireless,4.5W Reverse Wireless
+2023,February,01,Snapdragon 8 Gen 2,4 nm,Octa-core (1x3.2 GHz Cortex-X3 & 2x2.8 GHz Cortex-A715 & 2x2.8 GHz Cortex-A710 & 3x2.0 GHz Cortex-A510),Adreno 740,Single,12 MP, f/2.2, (wide),256/512/1000GB,UFS 4.0,No microSD,Android 13,One UI 5.1,Stereo Speakers,Tuned by AKG,32-bit/384kHz audio,Fingerprint: Under display,Accelerometer,Gyro,Proximity,Compass,Barometer
+ 234 g,Glass front (Gorilla Glass Victus 2), glass back (Gorilla Glass Victus 2), aluminum frame,Nano-SIM and eSIM or Dual SIM (2 Nano-SIMs and eSIM, dual stand-by),IP68 dust/water resistant,Armor aluminum frame,Stylus (Bluetooth integration, accelerometer, gyro),NFC,
+
+            120Hz,HDR10+,Bluetooth 5.3,USB Type-C 3.2
+1,200
+____
+1080x2400 pixels,Super AMOLED,411 ppi,Gorilla Glass 5,48 MP, f/1.8, (wide), OIS,8 MP, f/2.2, 123˚, (ultrawide),5 MP, f/2.4, (macro),2 MP, f/2.4, (depth),Fast Charging 25W
+2022,March,17,Exynos 1280,5 nm,Octa-core (2.4 GHz & 2.0 GHz),Mali-G68 MC4,Single,13 MP, f/2.2, (wide),128/256GB,microSDXC,Android 12,One UI 4.1,Stereo Speakers,Fingerprint: Side-mounted,Accelerometer,Gyro,Compass
+ 186 g,Glass front (Gorilla Glass 5), plastic frame, plastic back,Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by),IP67 dust/water resistant,IP67,
+
+            NFC,90Hz,Bluetooth 5.1,USB Type-C 2.0
+410
+____
+1080x2460 pixels,IPS LCD,396 ppi,50 MP, f/1.6, (wide),Unspecified camera,33W Wired,55% in 30 min
+2023,March,31,MediaTek Helio G88,12 nm,Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55),Mali-G52 MC2,Single,8 MP, f/2.5, (wide),128/256GB,microSDXC,Android 13,XOS 12.6,3.5mm,Stereo Speakers,24-bit/192kHz audio,Fingerprint: Side-mounted,Accelerometer,Proximity,Compass
+ 196 g,Glass front, plastic frame, plastic back,Dual SIM (Nano-SIM, dual stand-by),NFC,
+
+            90Hz,FM radio,500 nits (typ),USB Type-C 2.0
+144
+____
+1080x2460 pixels,IPS LCD,396 ppi,50 MP, f/1.6, (wide),2 MP, (macro),2 MP, (depth),Fast Charging 18W,Reverse Charging 5W
+2022,October,13,MediaTek MT6781 Helio G96,12 nm,Octa-core (2x2.05 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55),Mali-G57 MC2,Single,8 MP,128GB,microSDXC,Android 12,XOS 10.6,3.5mm,Stereo Speakers,Fingerprint: Side-mounted,Accelerometer,Proximity,Compass
+ 202 g,Glass front, plastic frame, plastic back,Dual SIM (Nano-SIM, dual stand-by),120Hz,
+
+            FM radio,Bluetooth 5.0,USB Type-C 2.0
+159
+____
+1080x2460 pixels,IPS LCD,396 ppi,64 MP, f/1.7, (wide),2 MP, f/2.4, (depth),QVGA,45W Wired
+2023,May,22,MediaTek MT8781 Helio G99,6 nm,Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55),Mali-G57 MC2,Single,16 MP, f/2.0, (wide),128/256GB,UFS,microSDXC,Android 13,3.5mm,Dual Speakers,Tuned by JBL,Fingerprint: Side-mounted,Accelerometer,Gyro,Proximity,Compass
+ 219 g,Glass front, plastic frame, glass or leather back,Dual SIM (Nano-SIM, dual stand-by),NFC,
+
+            120Hz,FM radio,Bluetooth 5.0,USB Type-C 2.0
+150
+____
+1080x2400 pixels,Super AMOLED+,405 ppi,Gorilla Glass 5,108 MP, f/1.8, (wide), OIS,12 MP, f/2.2, (ultrawide),5 MP, f/2.4, (macro),5 MP, f/2.4, (depth),Fast Charging 25W
+2022,March,17,Snapdragon 778G,6 nm,Octa-core (4x2.4 GHz Kryo 670 & 4x1.8 GHz Kryo 670),Adreno 642L,Single,32 MP, f/2.2, (wide),128/256GB,microSDXC,Android 12,One UI 4.1,Loudspeaker,Fingerprint: Under display,Accelerometer,Gyro,Proximity,Compass
+ 181 g,Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by),IP67 dust/water resistant,NFC,
+
+            120Hz,Bluetooth 5.0,USB Type-C 2.0
+428
+____
+720x1612 pixels,IPS LCD,269 ppi,50 MP, f/1.8, (wide),2 MP, f/2.4, (depth),Fast Charging 33W
+2022,October,05,Snapdragon 680 4G,6 nm,Octa-core (4x2.4 GHz Kryo 265 Gold & 4x1.9 GHz Kryo 265 Silver),Adreno 610,Single,8 MP, f/2.0, (wide),128GB,UFS 2.2,microSDXC,Android 12,ColorOS 12.1,3.5mm,Stereo Speakers,Fingerprint: Side-mounted,Accelerometer,Proximity,Compass
+ 187 g,Glass front, plastic frame, plastic back,Dual SIM (Nano-SIM, dual stand-by),IP54, dust and water resistant,NFC,
+
+            90Hz,480 nits (typ),Bluetooth 5.0,USB Type-C 2.0
+241
+____
+1080x2400 pixels,AMOLED,411 ppi,64 MP, f/1.7, (wide),8 MP, f/2.2, 119˚ (ultrawide),2 MP, f/2.4, (macro),Fast Charging 30W,Reverse Charging
+2021,July,20,MediaTek MT6853 Dimensity 800U 5G,7 nm,Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55),Mali-G57 MC3,Single,32 MP, f/2.4, (wide),128/256GB,microSDXC,Android 11,ColorOS 11.1,3.5mm,Loudspeaker,Fingerprint: Under display,Accelerometer,Gyro,Proximity,Compass
+ 173 g,Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by),NFC,
+
+            430 nits (typ),600 nits (HDR),Bluetooth 5.1,USB Type-C 2.0
+412
+____
+720x1612 pixels,IPS LCD,269 ppi,50 MP, f/1.8, (wide),2 MP, f/2.4, (depth),Fast Charging 33W
+03 August 2022,MediaTek MT6765G Helio G35,12 nm,Octa-core (4x2.3 GHz Cortex-A53 & 4x1.8 GHz Cortex-A53),PowerVR GE8320,Single,8 MP, f/2.0, (wide),64/128GB,UFS 2.2,microSDXC,Android 12,ColorOS 12.1,3.5mm,Stereo Speakers,Fingerprint: Side-mounted,Accelerometer,Proximity,Compass
+ 187 g,Glass front, plastic frame, plastic or leather back,Dual SIM (Nano-SIM, dual stand-by),IP54, dust and water resistant,NFC,
+
+            90Hz,3.5mm,480 nits (typ),Bluetooth 5.0,USB Type-C 2.0
+196
+____
+1080x2400 pixels,IPS LCD,395 ppi,Gorilla Glass 6,48 MP, f/1.8, (wide),8 MP, f/2.2, 119˚ (ultrawide),2 MP, f/2.4, (macro),2 MP, f/2.4, (depth),Fast Charging 33W
+2022,March,22,Snapdragon 860,7 nm,Octa-core (1x2.96 GHz Kryo 485 Gold & 3x2.42 GHz Kryo 485 Gold & 4x1.78 GHz Kryo 485 Silver),Adreno 640,Single,20 MP, f/2.2, (wide),128/256GB,UFS 3.1,microSDXC,Android 11,MIUI 12,3.5mm,Stereo Speakers,24-bit/192kHz audio,Fingerprint: Side-mounted,Accelerometer,Gyro,Proximity,Compass
+ 215 g,Glass front (Gorilla Glass 6), plastic back,Hybrid Dual SIM (Nano-SIM, dual stand-by),IP53, dust and splash resistant,NFC,
+
+            120Hz,FM radio,HDR10,Bluetooth 5.0,USB Type-C 2.0
+298
+____
+1080x2400 pixels,IPS LCD,405 ppi,50 MP, f/1.8, (wide),8 MP, f/2.2, 120˚ (ultrawide),2 MP, f/2.4, (macro),2 MP, f/2.4 (depth),Fast Charging 18W,Reverse Charging 9W
+2021,September,03,MediaTek Helio G88,12 nm,Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55),Mali-G52 MC2,Single,8 MP, f/2.0, (wide),64/128GB,eMMC 5.1,microSDXC,Android 11,MIUI 12.5,3.5mm,Stereo Speakers,24-bit/192kHz audio,Fingerprint: Side-mounted,Accelerometer,Proximity,Compass
+ 192 g,Glass front (Gorilla Glass 3), plastic frame, plastic back,Dual SIM (Nano-SIM, dual stand-by),Dust & splash proof,90Hz,
+
+            FM radio,Bluetooth 5.1,USB Type-C 2.0
+172
+____
+1080x2400 pixels,AMOLED,402 ppi,Gorilla Glass 6,64 MP, f/1.8, (wide),8 MP, f/2.2, 119˚ (ultrawide),5 MP, f/2.4, (macro),Fast Charging 33W,Quick Charge 4+
+2021,March,29,Snapdragon 780G,5 nm,Octa-core (1x2.4 GHz Kryo 670 & 3x2.2 GHz Kryo 670 & 4x1.90 GHz Kryo 670),Adreno 642,Single,20 MP, f/2.2, (wide),64/128/256GB,UFS 2.2,microSDXC,Android 11,MIUI 12,Dual Speakers,24-bit/192kHz audio,Fingerprint: Side-mounted,Accelerometer,Gyro,Proximity,Compass
+ 159 g,Glass front (Gorilla Glass 6), glass back,Hybrid Dual SIM (Nano-SIM, dual stand-by),IP53, dust and splash resistant,NFC,
+
+            90Hz,HDR10+,500 nits (typ),Bluetooth 5.2,USB Type-C 2.0
+435
+____
+1080x2400 pixels,AMOLED,409 ppi,Gorilla Glass 5,108 MP, f/1.8, (wide),8 MP, f/2.2, 118˚ (ultrawide),2 MP, f/2.4, (macro),33W Wired
+2023,March,06,MediaTek Helio G96,12 nm,Octa-core (2x2.05 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55),Mali-G57 MC2,Single,12 MP,64/128/256GB,microSDXC,Android 13,MIUI 14,3.5mm,Stereo Speakers,Fingerprint: Side-mounted,Accelerometer,Gyro,Compass
+ 188 g,Dual SIM (Nano-SIM, dual stand-by),IP53, dust and splash resistant,NFC,
+
+            90Hz,Bluetooth 5.2,USB Type-C 2.0
+320
+____
+1080x2400 pixels,OLED,395 ppi,50 MP, f/1.9, (wide), OIS,8 MP, f/1.9, 119˚ (ultrawide),2 MP, f/2.4, (macro),Fast Charging 67W
+2022,October,27,MediaTek Dimensity 1080,6 nm,Octa-core (2x2.6 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55),Mali-G68 MC4,Single,16 MP, (wide),128/256GB,UFS 2.2,No microSD,Android 12,MIUI 13,3.5mm,Stereo speakers,24-bit/192kHz audio,Fingerprint: Under display,Accelerometer,Gyro,Proximity,Compass
+ 187 g,Dual SIM (Nano-SIM, dual stand-by),IP53, dust and splash resistant,120Hz,
+
+            HDR10+,Dolby Vision,500 nits (typ),Bluetooth 5.2,USB Type-C 2.0
+235
+____

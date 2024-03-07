@@ -1,8 +1,5 @@
 <template>
-    <link
-        rel="stylesheet"
-        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
-    />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
 
     <HeaderUserAccount />
     <div class="contact-form">
@@ -12,18 +9,9 @@
                 <div class="content">
                     <h2>Contact Us</h2>
                     <label for="">Email :</label>
-                    <input
-                        type="email"
-                        name="name"
-                        placeholder="Enter Your Email"
-                        v-model="email"
-                    />
+                    <input type="email" name="name" placeholder="Enter Your Email" v-model="email" />
                     <label for="">Message :</label>
-                    <textarea
-                        name="message"
-                        placeholder="Your Message"
-                        v-model="content"
-                    ></textarea>
+                    <textarea name="message" placeholder="Your Message" v-model="content"></textarea>
                     <button class="btn" @click="sendmessage()">
                         Send <i class="fas fa-paper-plane"></i>
                     </button>
@@ -77,12 +65,14 @@ export default {
 </script>
 <style scoped>
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap");
+
 * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
     font-family: "poppins", sans-serif;
 }
+
 .contact-form {
     position: relative;
     min-height: 100vh;
@@ -94,10 +84,12 @@ export default {
     grid-template-rows: 1fr auto 1fr;
     align-items: center;
 }
+
 .container {
     max-width: 800px;
     margin-top: 0 auto;
 }
+
 .contact-form h1 {
     text-align: center;
     font-size: 2.5rem;
@@ -105,6 +97,7 @@ export default {
     color: #fff;
     font-family: "poppins";
 }
+
 .contact-form h2 {
     line-height: 40px;
     margin-bottom: 5px;
@@ -113,11 +106,13 @@ export default {
     color: #000000;
     text-align: center;
 }
+
 .contact-form .main {
     position: relative;
     display: flex;
     margin: 30px 0;
 }
+
 .content {
     flex-basis: 50%;
     padding: 3em 3em;
@@ -126,6 +121,7 @@ export default {
     border-top-left-radius: 8px;
     border-bottom-left-radius: 8px;
 }
+
 .form-img {
     flex-basis: 50%;
     background: #f0f4f8;
@@ -136,22 +132,27 @@ export default {
     align-items: center;
     display: grid;
 }
+
 .form-img img {
     max-width: 100%;
 }
+
 .btn,
 button,
 input {
     border-radius: 35px;
 }
+
 .btn:hover,
 button:hover {
     color: #3e3d3e;
     transition: 0.5s ease;
 }
+
 .contact-form form {
     margin: 30px 0;
 }
+
 .contact-form input,
 textarea {
     outline: none;
@@ -166,10 +167,12 @@ textarea {
     background: #fcfcfc;
     transition: 0.3s ease;
 }
+
 .contact-form input:focus {
     background: transparent;
     border: 1px solid #000000;
 }
+
 .contact-form button {
     font-size: 18px;
     color: #fff;
@@ -180,20 +183,24 @@ textarea {
     padding: 14px 15px;
     border: 1px solid #ededed;
 }
+
 @media (max-width: 736px) {
     .contact-form .main {
         flex-direction: column;
     }
+
     .contact-form form {
         margin-top: 30px;
         margin-bottom: 10px;
     }
+
     .form-img {
         border-radius: 0;
         border-bottom-left-radius: 8px;
         border-bottom-right-radius: 8px;
         order: 2;
     }
+
     .content {
         order: 1;
         border-top-left-radius: 8px;

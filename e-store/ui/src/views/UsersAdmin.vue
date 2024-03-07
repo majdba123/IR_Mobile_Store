@@ -1,4 +1,5 @@
 <template>
+
     <body>
         <HeaderAdmin />
         <section class="attendance">
@@ -23,10 +24,7 @@
                                 </button>
                             </td>
                             <td>
-                                <button
-                                    class="dd"
-                                    @click="editData(element.id)"
-                                >
+                                <button class="dd" @click="editData(element.id)">
                                     <i class="fa fa-edit"></i>
                                 </button>
                             </td>
@@ -46,27 +44,15 @@
                         <div class="fields">
                             <div class="input-field">
                                 <label> Username </label>
-                                <input
-                                    v-model="username"
-                                    type="text"
-                                    placeholder="Enter your name"
-                                />
+                                <input v-model="username" type="text" placeholder="Enter your name" />
                             </div>
                             <div class="input-field">
                                 <label>Nationality </label>
-                                <input
-                                    v-model="nationality"
-                                    type="text"
-                                    placeholder="Enter your name"
-                                />
+                                <input v-model="nationality" type="text" placeholder="Enter your name" />
                             </div>
                         </div>
                         <button @click="cancelEdit()">Cancel</button>
-                        <button
-                            type="button"
-                            class="nextbtn"
-                            @click="saveEdit()"
-                        >
+                        <button type="button" class="nextbtn" @click="saveEdit()">
                             Save
                         </button>
                     </div>
@@ -148,6 +134,7 @@ export default {
     box-sizing: border-box;
     font-family: "poppins", "sans-serif";
 }
+
 .table {
     border-collapse: collapse;
     table-layout: fixed;
@@ -170,9 +157,11 @@ export default {
     word-break: break-all;
     color: white;
 }
+
 tr td a {
     color: #000000;
 }
+
 .dd {
     font-size: 30px;
 
@@ -182,6 +171,7 @@ tr td a {
 .dd:hover {
     color: #3f3e3e;
 }
+
 .table td {
     padding: 12px 15px;
     text-align: center;
@@ -285,6 +275,7 @@ body {
     background-color: #fff;
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
 }
+
 .containeraaab {
     position: fixed;
     top: 50%;
@@ -308,6 +299,7 @@ body {
     font-weight: 600;
     color: #333;
 }
+
 .container header {
     position: relative;
     font-size: 20px;
@@ -325,6 +317,7 @@ body {
     border-radius: 8px;
     background-color: rgb(26, 37, 37);
 }
+
 .container header::before {
     content: "";
     position: absolute;
@@ -335,12 +328,14 @@ body {
     border-radius: 8px;
     background-color: rgb(26, 37, 37);
 }
+
 .containeraaab form {
     position: relative;
     margin-top: 16px;
     min-height: 100px;
     background-color: #fff;
 }
+
 .container form {
     position: relative;
     margin-top: 16px;
@@ -351,6 +346,7 @@ body {
 .containeraaab form .details {
     margin-top: 10px;
 }
+
 .container form .details {
     margin-top: 10px;
 }
@@ -361,6 +357,7 @@ body {
     margin: 6px 0;
     color: #333;
 }
+
 .container form .title {
     font-size: 19px;
     font-weight: 500;
@@ -374,6 +371,7 @@ body {
     justify-content: space-between;
     flex-wrap: wrap;
 }
+
 .container form .fields {
     display: flex;
     align-items: center;
@@ -426,6 +424,7 @@ form .fields .input-field {
     transition: all 0.3s linear;
     cursor: pointer;
 }
+
 .container form button {
     display: flex;
     align-items: center;
@@ -452,16 +451,19 @@ form button:hover {
     align-items: center;
     justify-content: center;
 }
+
 .container form button {
     display: flex;
     align-items: center;
     justify-content: center;
 }
+
 @media (max-width: 400px) {
     .containeraaab {
         width: 90%;
         height: auto;
     }
+
     .container {
         width: 90%;
         height: auto;

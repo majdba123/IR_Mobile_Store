@@ -1,5 +1,6 @@
 <template>
     <HeaderAllCategories />
+
     <body>
         <div class="container">
             <form action="">
@@ -13,17 +14,11 @@
                         </div>
                         <div class="inputBox">
                             <span>email :</span>
-                            <input
-                                type="email"
-                                placeholder="example@example.com"
-                            />
+                            <input type="email" placeholder="example@example.com" />
                         </div>
                         <div class="inputBox">
                             <span>address :</span>
-                            <input
-                                type="text"
-                                placeholder="room - street - locality"
-                            />
+                            <input type="text" placeholder="room - street - locality" />
                         </div>
                         <div class="inputBox">
                             <span>city :</span>
@@ -55,11 +50,7 @@
                         </div>
                         <div class="inputBox">
                             <span>credit card number :</span>
-                            <input
-                                v-model="stripe_payment_id"
-                                type="number"
-                                placeholder="1111-2222-3333-4444"
-                            />
+                            <input v-model="stripe_payment_id" type="number" placeholder="1111-2222-3333-4444" />
                         </div>
                         <div class="inputBox">
                             <span>exp month :</span>
@@ -79,11 +70,7 @@
                     </div>
                 </div>
 
-                <input
-                    @click="sendpayment"
-                    value="proceed to checkout"
-                    class="submit-btn"
-                />
+                <input @click="sendpayment" value="proceed to checkout" class="submit-btn" />
             </form>
         </div>
     </body>
