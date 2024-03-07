@@ -1,0 +1,85 @@
+@if (session('error'))
+    <div class="alert alert-danger">
+        {{ session('error') }}
+    </div>
+@endif
+-------------------------
+@if (session::has('success'))
+    <div class="alert alert-danger">
+        {{ session('error') }}
+    </div>
+@endif
+___________________________
+public function storephone(Request $request)
+{
+    $validator = Validator::make($request->all(), [
+        'mobile_name' => 'required',
+        'Cpu_spsecfication' => 'required',
+        'Gpu_spsecfication' => 'required',
+        'battery_spsecfication' => 'required',
+        'Front_camera_spsecfication' => 'required',
+        'Back_camera_spsecfication' => 'required',
+        'Screen_Size' => 'required',
+        'Type_of_charge' => 'required',
+        'Price' => 'required',
+        'imge' => 'image|mimes:jpeg,png,jpg,gif,svg|max:2048',
+        'Company_id' => 'required',
+        'category_id' => 'required',
+    ]);
+
+    if ($validator->fails()) {
+        return redirect()->route('add.phone')->withErrors($validator)->withInput();
+    }
+
+    $imageName = null;
+
+    if ($request->hasFile('imge')) {
+        $imageName = time().'.'.$request->imge->getClientOriginalExtension();
+        $request->imge->move(public_path('imageproduct'), $imageName);
+    }
+
+    $product = new Product([
+        'mobile_name' => $request->input('mobile_name'),
+        'Cpu_spsecfication' => $request->input('Cpu_spsecfication'),
+        'Gpu_spsecfication' => $request->input('Gpu_spsecfication'),
+        'battery_spsecfication' => $request->input('battery_spsecfication'),
+        'Front_camera_spsecfication' => $request->input('Front_camera_spsecfication'),
+        'Back_camera_spsecfication' => $request->input('Back_camera_spsecfication'),
+        'Screen_Size' => $request->input('Screen_Size'),
+        'Type_of_charge' => $request->input('Type_of_charge'),
+        'Price' => $request->input('Price'),
+        'Company_id' => $request->input('Company_id'),
+        'category_id' => $request->input('category_id'),
+        'imge' => $imageName,
+    ]);
+
+    $product->save();
+
+    return redirect()->route('add.phone')->with('success', 'Product added successfully.');
+}
+
+
+
+________________________________
+@if ($errors->any())
+    <div class="alert alert-danger">
+        <ul>
+            @foreach ($errors->all() as $error)
+                <li>{{ $error }}</li>
+            @endforeach
+        </ul>
+    </div>
+@endif
+______________________________________
+selector language
+            <div class="container">
+                <li  class="nav-item">
+                    @foreach(LaravelLocalization::getSupportedLocales() as $localeCode => $properties)
+                        <li class="nav-item">
+                            <a rel="alternate" hreflang="{{ $localeCode }}" href="{{ LaravelLocalization::getLocalizedURL($localeCode, null, [], true) }}">
+                                {{ $properties['native'] }}
+                            </a>
+                        </li>
+                    @endforeach
+                 </li>
+            </div>
