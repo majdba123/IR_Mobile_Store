@@ -1,39 +1,75 @@
 <template>
-
     <body>
         <div class="container-fluid light-style container-p-y bg-dark">
-            <h4 class="font-weight-bold text-center text-white" style="padding: 25px">
+            <h4
+                class="font-weight-bold text-center text-white"
+                style="padding: 25px"
+            >
                 Account settings
             </h4>
-            <div class="container-fluid card overflow-hidden bg-dark" style="min-height: 80vh">
+            <div
+                class="container-fluid card overflow-hidden bg-dark"
+                style="min-height: 80vh"
+            >
                 <div class="row no-gutters row-bordered row-border-light">
                     <div class="col-md-3 pt-0">
-                        <div class="list-group list-group-flush account-settings-links">
-                            <a class="list-group-item list-group-item-action bg-dark text-white" data-toggle="list"
-                                href="#account-general">General</a>
-                            <a class="list-group-item list-group-item-action bg-dark text-white" data-toggle="list"
-                                href="#account-info">Info</a>
+                        <div
+                            class="list-group list-group-flush account-settings-links"
+                        >
+                            <a
+                                class="list-group-item list-group-item-action bg-dark text-white"
+                                data-toggle="list"
+                                href="#account-general"
+                                >General</a
+                            >
+                            <a
+                                class="list-group-item list-group-item-action bg-dark text-white"
+                                data-toggle="list"
+                                href="#account-info"
+                                >Info</a
+                            >
                         </div>
                     </div>
                     <div class="col-md-9">
                         <div class="tab-content">
-                            <div class="tab-pane fade active show" id="account-general">
+                            <div
+                                class="tab-pane fade active show"
+                                id="account-general"
+                            >
                                 <hr class="border-light m-0" />
                                 <div class="card-body">
                                     <div class="form-group">
-                                        <label class="form-label text-white">Username</label>
-                                        <input v-model="user.name" type="text" class="form-control mb-1"
-                                            placeholder="nmaxwell" />
+                                        <label class="form-label text-white"
+                                            >Username</label
+                                        >
+                                        <input
+                                            v-model="user.name"
+                                            type="text"
+                                            class="form-control mb-1"
+                                            placeholder="nmaxwell"
+                                        />
                                     </div>
 
                                     <div class="form-group">
-                                        <label class="form-label text-white">E-mail</label>
-                                        <input v-model="user.email" type="text" class="form-control mb-1"
-                                            placeholder="nmaxwell@mail.com" />
-                                        <div class="alert alert-warning mt-3 text-white bg-dark">
+                                        <label class="form-label text-white"
+                                            >E-mail</label
+                                        >
+                                        <input
+                                            v-model="user.email"
+                                            type="text"
+                                            class="form-control mb-1"
+                                            placeholder="nmaxwell@mail.com"
+                                        />
+                                        <div
+                                            class="alert alert-warning mt-3 text-white bg-dark"
+                                        >
                                             Your email is not confirmed. Please
                                             check your inbox.<br />
-                                            <a @click="veryfi()" href="javascript:void(0)">Resend confirmation</a>
+                                            <a
+                                                @click="veryfi()"
+                                                href="javascript:void(0)"
+                                                >Resend confirmation</a
+                                            >
                                         </div>
                                     </div>
                                 </div>
@@ -41,36 +77,72 @@
                             <div class="tab-pane fade" id="account-info">
                                 <div class="card-body pb-2">
                                     <div class="form-group">
-                                        <label class="form-label text-white">Nationality</label>
-                                        <input type="text" class="form-control" v-model="user.Nationality" />
+                                        <label class="form-label text-white"
+                                            >Nationality</label
+                                        >
+                                        <input
+                                            type="text"
+                                            class="form-control"
+                                            v-model="user.Nationality"
+                                        />
                                     </div>
                                     <div class="form-group">
-                                        <label class="form-label text-white">Phone</label>
-                                        <input v-model="user.phone" type="text" class="form-control"
-                                            placeholder="+0 (963) 956 7891" />
+                                        <label class="form-label text-white"
+                                            >Phone</label
+                                        >
+                                        <input
+                                            v-model="user.phone"
+                                            type="text"
+                                            class="form-control"
+                                            placeholder="+0 (963) 956 7891"
+                                        />
                                     </div>
                                 </div>
                                 <hr class="border-light m-0" />
                                 <div class="card-body pb-2">
                                     <h6 class="mb-4 text-white">Contacts</h6>
 
-                                    <div class="form-group" v-for="addre in address" :key="addre.id">
-                                        <label class="form-label text-white">Name Of The City
+                                    <div
+                                        class="form-group"
+                                        v-for="addre in address"
+                                        :key="addre.id"
+                                    >
+                                        <label class="form-label text-white"
+                                            >Name Of The City
                                         </label>
-                                        <input v-model="addre.name_of_the_city" type="text" class="form-control"
-                                            placeholder="Name Of The City" />
-                                        <label class="form-label text-white">Number Of The Street</label>
-                                        <input v-model="addre.number_of_the_street" type="text" class="form-control"
-                                            placeholder="Number Of The Street" />
+                                        <input
+                                            v-model="addre.name_of_the_city"
+                                            type="text"
+                                            class="form-control"
+                                            placeholder="Name Of The City"
+                                        />
+                                        <label class="form-label text-white"
+                                            >Number Of The Street</label
+                                        >
+                                        <input
+                                            v-model="addre.number_of_the_street"
+                                            type="text"
+                                            class="form-control"
+                                            placeholder="Number Of The Street"
+                                        />
                                         <label class="form-label text-white">
-                                            Number Of Building</label>
-                                        <input v-model="addre.number_of_building" type="text" class="form-control"
-                                            placeholder=" Number Of Building" />
+                                            Number Of Building</label
+                                        >
+                                        <input
+                                            v-model="addre.number_of_building"
+                                            type="text"
+                                            class="form-control"
+                                            placeholder=" Number Of Building"
+                                        />
 
                                         <hr />
                                     </div>
-                                    <button @click="updateaddress" type="button" class="btn btn-primary btn-dark"
-                                        style="padding: 15px">
+                                    <button
+                                        @click="updateaddress"
+                                        type="button"
+                                        class="btn btn-primary btn-dark"
+                                        style="padding: 15px"
+                                    >
                                         Update Address
                                     </button>
                                 </div>
@@ -80,9 +152,19 @@
                 </div>
             </div>
             <div class="text-center">
-                <button @click="updateprofile" type="button" class="btn btn-primary btn-dark" style="padding: 15px">
-                    Save changes</button>&nbsp;
-                <button type="button" class="btn btn-default btn-dark" style="padding: 15px">
+                <button
+                    @click="updateprofile"
+                    type="button"
+                    class="btn btn-primary btn-dark"
+                    style="padding: 15px"
+                >
+                    Save changes</button
+                >&nbsp;
+                <button
+                    type="button"
+                    class="btn btn-default btn-dark"
+                    style="padding: 15px"
+                >
                     Cancel
                 </button>
             </div>
@@ -258,7 +340,7 @@ html:not(.dark-style) .account-settings-links .list-group-item.active {
     background: transparent !important;
 }
 
-.account-settings-multiselect~.select2-container {
+.account-settings-multiselect ~ .select2-container {
     width: 100% !important;
 }
 

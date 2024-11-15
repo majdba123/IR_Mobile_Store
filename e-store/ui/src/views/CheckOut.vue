@@ -1,5 +1,8 @@
 <template>
-    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet" />
+    <link
+        href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+        rel="stylesheet"
+    />
 
     <HeaderAllCategories />
     <section class="color">
@@ -24,14 +27,26 @@
                     </tr>
                 </thead>
                 <tbody>
-                    <tr v-for="(product, index) in $store.state.Order" :key="index">
+                    <tr
+                        v-for="(product, index) in $store.state.Order"
+                        :key="index"
+                    >
                         <td>
-                            <button @click="deleteproduct(index)" class="btn btn-primary" type="button" style="
+                            <button
+                                @click="deleteproduct(index)"
+                                class="btn btn-primary"
+                                type="button"
+                                style="
                                     margin: 0px 0px 0px 10px;
                                     padding: 0px 5px 0px 5px;
                                     background-color: white;
-                                ">
-                                <span class="ml-2"><i class="fa fa-trash-o ml-3 text-black-50"></i></span>
+                                "
+                            >
+                                <span class="ml-2"
+                                    ><i
+                                        class="fa fa-trash-o ml-3 text-black-50"
+                                    ></i
+                                ></span>
                             </button>
                         </td>
 
@@ -43,18 +58,23 @@
                             <h5>{{ product.Price }}</h5>
                         </td>
                         <td>
-                            <button @click="
+                            <button
+                                @click="
                                     if (
-                        $store.state.Order[index]['count'] > 0
-                    ) {
-                        $store.state.Orderto[index]['count']--;
-                        $store.state.Order[index]['count']--;
-                    }
-                        total_price();
-                        " class="btn btn-primary" type="button" style="
+                                        $store.state.Order[index]['count'] > 0
+                                    ) {
+                                        $store.state.Orderto[index]['count']--;
+                                        $store.state.Order[index]['count']--;
+                                    }
+                                    total_price();
+                                "
+                                class="btn btn-primary"
+                                type="button"
+                                style="
                                     margin: 0px 10px 0px 10px;
                                     padding: 0px 7px 0px 6px;
-                                ">
+                                "
+                            >
                                 <span class="ml-2">-</span>
                             </button>
                         </td>
@@ -62,15 +82,20 @@
                             {{ product.count }}
                         </td>
                         <td>
-                            <button @click="
-                            $store.state.Order[index]['count']++;
-                        $store.state.Orderto[index]['count']++;
+                            <button
+                                @click="
+                                    $store.state.Order[index]['count']++;
+                                    $store.state.Orderto[index]['count']++;
 
-                        total_price();
-                        " class="btn btn-primary" type="button" style="
+                                    total_price();
+                                "
+                                class="btn btn-primary"
+                                type="button"
+                                style="
                                     margin: 0px 0px 0px 10px;
                                     padding: 0px 5px 0px 5px;
-                                ">
+                                "
+                            >
                                 <span class="ml-2">+</span>
                             </button>
                         </td>
@@ -100,10 +125,10 @@
                             <h6>Discount</h6>
                             <p>
                                 {{
-                            totalprice - discount == totalprice
-                                ? 0
-                                : totalprice - discount
-                        }}
+                                    totalprice - discount == totalprice
+                                        ? 0
+                                        : totalprice - discount
+                                }}
                             </p>
                         </div>
 
@@ -114,7 +139,9 @@
                             <p>{{ totalprice }}</p>
                         </div>
                         <button @click="postorder" class="ml-auto">
-                            <router-link class="ml-auto" to="/PayMent">PROCEED TO CHECKOUT</router-link>
+                            <router-link class="ml-auto" to="/PayMent"
+                                >PROCEED TO CHECKOUT</router-link
+                            >
                         </button>
                     </div>
                 </div>
@@ -384,14 +411,14 @@ export default {
     color: #8d8c89;
 }
 
-#cart-bottom .coupon>div,
-#cart-bottom .total>div {
+#cart-bottom .coupon > div,
+#cart-bottom .total > div {
     border: 1px solid #191919;
     border-radius: 10px;
     padding: 20px;
 }
 
-#cart-bottom .total>div {
+#cart-bottom .total > div {
     margin-bottom: 19px;
 }
 
@@ -433,11 +460,11 @@ export default {
     background-color: #2c2c2c;
 }
 
-#cart-bottom .total div>button:hover {
+#cart-bottom .total div > button:hover {
     background-color: #2c2c2c;
 }
 
-#cart-bottom .total div>div {
+#cart-bottom .total div > div {
     padding: 0 12px;
 }
 
@@ -451,7 +478,7 @@ export default {
     height: 1px;
 }
 
-#cart-bottom .total div>button {
+#cart-bottom .total div > button {
     margin-top: 20px;
     display: block;
     background-color: #000;

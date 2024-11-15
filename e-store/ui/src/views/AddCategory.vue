@@ -1,5 +1,4 @@
 <template>
-
     <body>
         <HeaderAdmin />
         <div class="container">
@@ -13,14 +12,26 @@
                         <div class="fields">
                             <div class="input-field">
                                 <label> Name Category </label>
-                                <input v-model="namecategory" type="text" placeholder="Enter your name" />
+                                <input
+                                    v-model="namecategory"
+                                    type="text"
+                                    placeholder="Enter your name"
+                                />
                             </div>
                             <div class="input-field">
                                 <label>Company ID </label>
-                                <input v-model="idcategory" type="text" placeholder="Enter your name" />
+                                <input
+                                    v-model="idcategory"
+                                    type="text"
+                                    placeholder="Enter your name"
+                                />
                             </div>
                         </div>
-                        <button type="button" class="nextbtn" @click="Addcategory()">
+                        <button
+                            type="button"
+                            class="nextbtn"
+                            @click="Addcategory()"
+                        >
                             Ok
                         </button>
                     </div>
@@ -50,12 +61,18 @@
                             <td>{{ element.updated_at }}</td>
 
                             <td>
-                                <button class="dd" @click="deletecategory(element.id)">
+                                <button
+                                    class="dd"
+                                    @click="deletecategory(element.id)"
+                                >
                                     <i class="fa fa-trash"></i>
                                 </button>
                             </td>
                             <td>
-                                <button class="dd" @click="editData(element.id)">
+                                <button
+                                    class="dd"
+                                    @click="editData(element.id)"
+                                >
                                     <i class="fa fa-edit"></i>
                                 </button>
                             </td>
@@ -75,15 +92,27 @@
                         <div class="fields">
                             <div class="input-field">
                                 <label> Name Category </label>
-                                <input v-model="namecategory" type="text" placeholder="Enter your name" />
+                                <input
+                                    v-model="namecategory"
+                                    type="text"
+                                    placeholder="Enter your name"
+                                />
                             </div>
                             <div class="input-field">
                                 <label>Company ID </label>
-                                <input v-model="idcategory" type="text" placeholder="Enter your name" />
+                                <input
+                                    v-model="idcategory"
+                                    type="text"
+                                    placeholder="Enter your name"
+                                />
                             </div>
                         </div>
                         <button @click="cancelEdit">Cancel</button>
-                        <button type="button" class="nextbtn" @click="saveEdit()">
+                        <button
+                            type="button"
+                            class="nextbtn"
+                            @click="saveEdit()"
+                        >
                             Save
                         </button>
                     </div>

@@ -1,5 +1,8 @@
 <template>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+    <link
+        rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+    />
 
     <HeaderUserAccount />
     <div class="contact-form">
@@ -9,9 +12,18 @@
                 <div class="content">
                     <h2>Contact Us</h2>
                     <label for="">Email :</label>
-                    <input type="email" name="name" placeholder="Enter Your Email" v-model="email" />
+                    <input
+                        type="email"
+                        name="name"
+                        placeholder="Enter Your Email"
+                        v-model="email"
+                    />
                     <label for="">Message :</label>
-                    <textarea name="message" placeholder="Your Message" v-model="content"></textarea>
+                    <textarea
+                        name="message"
+                        placeholder="Your Message"
+                        v-model="content"
+                    ></textarea>
                     <button class="btn" @click="sendmessage()">
                         Send <i class="fas fa-paper-plane"></i>
                     </button>

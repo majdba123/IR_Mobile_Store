@@ -1,5 +1,4 @@
 <template>
-
     <body>
         <HeaderAdmin />
         <div class="container">
@@ -13,20 +12,38 @@
                         <div class="fields">
                             <div class="input-field">
                                 <label> Name Company </label>
-                                <input v-model="namecompany" type="text" placeholder="Enter your name" />
+                                <input
+                                    v-model="namecompany"
+                                    type="text"
+                                    placeholder="Enter your name"
+                                />
                             </div>
                             <div class="input-field">
                                 <label>Address Company </label>
-                                <input v-model="address" type="text" placeholder="Enter your name" />
+                                <input
+                                    v-model="address"
+                                    type="text"
+                                    placeholder="Enter your name"
+                                />
                             </div>
 
                             <div class="input-field">
                                 <label>imge</label>
-                                <input type="file" name="image" accept="image/*" id="image" class="mx-3"
-                                    @change="changefile" />
+                                <input
+                                    type="file"
+                                    name="image"
+                                    accept="image/*"
+                                    id="image"
+                                    class="mx-3"
+                                    @change="changefile"
+                                />
                             </div>
                         </div>
-                        <button type="button" class="nextbtn" @click="Addcompany()">
+                        <button
+                            type="button"
+                            class="nextbtn"
+                            @click="Addcompany()"
+                        >
                             Ok
                         </button>
                     </div>
@@ -56,12 +73,18 @@
                             <td>{{ element.updated_at }}</td>
 
                             <td>
-                                <button class="dd" @click="deletecompany(element.id)">
+                                <button
+                                    class="dd"
+                                    @click="deletecompany(element.id)"
+                                >
                                     <i class="fa fa-trash"></i>
                                 </button>
                             </td>
                             <td>
-                                <button class="dd" @click="editData(element.id)">
+                                <button
+                                    class="dd"
+                                    @click="editData(element.id)"
+                                >
                                     <i class="fa fa-edit"></i>
                                 </button>
                             </td>
@@ -81,21 +104,39 @@
                         <div class="fields">
                             <div class="input-field">
                                 <label> Name Company </label>
-                                <input v-model="namecompany" type="text" placeholder="Enter your name" />
+                                <input
+                                    v-model="namecompany"
+                                    type="text"
+                                    placeholder="Enter your name"
+                                />
                             </div>
                             <div class="input-field">
                                 <label>Address Company </label>
-                                <input v-model="address" type="text" placeholder="Enter your name" />
+                                <input
+                                    v-model="address"
+                                    type="text"
+                                    placeholder="Enter your name"
+                                />
                             </div>
 
                             <div class="input-field">
                                 <label>imge</label>
-                                <input type="file" name="image" accept="image/*" id="imagee" class="mx-3"
-                                    @change="changefilea" />
+                                <input
+                                    type="file"
+                                    name="image"
+                                    accept="image/*"
+                                    id="imagee"
+                                    class="mx-3"
+                                    @change="changefilea"
+                                />
                             </div>
                         </div>
                         <button @click="cancelEdit">Cancel</button>
-                        <button type="button" class="nextbtn" @click="editcompany() + saveEdit()">
+                        <button
+                            type="button"
+                            class="nextbtn"
+                            @click="editcompany() + saveEdit()"
+                        >
                             Save
                         </button>
                     </div>

@@ -1,5 +1,4 @@
 <template>
-
     <body>
         <HeaderAdmin />
         <div class="container">
@@ -13,14 +12,26 @@
                         <div class="fields">
                             <div class="input-field">
                                 <label>Percent Of Discount </label>
-                                <input v-model="percentofdiscount" type="text" placeholder="Enter your name" />
+                                <input
+                                    v-model="percentofdiscount"
+                                    type="text"
+                                    placeholder="Enter your name"
+                                />
                             </div>
                             <div class="input-field">
                                 <label> Expiration Date </label>
-                                <input v-model="expirationdate" type="date" placeholder="Enter your name" />
+                                <input
+                                    v-model="expirationdate"
+                                    type="date"
+                                    placeholder="Enter your name"
+                                />
                             </div>
                         </div>
-                        <button type="button" class="nextbtn" @click="addoffer()">
+                        <button
+                            type="button"
+                            class="nextbtn"
+                            @click="addoffer()"
+                        >
                             Ok
                         </button>
                     </div>
@@ -46,12 +57,18 @@
                             <td>{{ element.expiration_date }}</td>
 
                             <td>
-                                <button class="dd" @click="deleteoffer(element.id)">
+                                <button
+                                    class="dd"
+                                    @click="deleteoffer(element.id)"
+                                >
                                     <i class="fa fa-trash"></i>
                                 </button>
                             </td>
                             <td>
-                                <button class="dd" @click="editData(element.id)">
+                                <button
+                                    class="dd"
+                                    @click="editData(element.id)"
+                                >
                                     <i class="fa fa-edit"></i>
                                 </button>
                             </td>
@@ -71,16 +88,28 @@
                         <div class="fields">
                             <div class="input-field">
                                 <label> Percent Of Discount </label>
-                                <input v-model="percentofdiscount" type="text" placeholder="Enter your name" />
+                                <input
+                                    v-model="percentofdiscount"
+                                    type="text"
+                                    placeholder="Enter your name"
+                                />
                             </div>
 
                             <div class="input-field">
                                 <label> Expiration Date </label>
-                                <input v-model="expirationdate" type="date" placeholder="Enter your name" />
+                                <input
+                                    v-model="expirationdate"
+                                    type="date"
+                                    placeholder="Enter your name"
+                                />
                             </div>
                         </div>
                         <button @click="cancelEdit">Cancel</button>
-                        <button type="button" class="nextbtn" @click="editoffer() + saveEdit()">
+                        <button
+                            type="button"
+                            class="nextbtn"
+                            @click="editoffer() + saveEdit()"
+                        >
                             Save
                         </button>
                     </div>

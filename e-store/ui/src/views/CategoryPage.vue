@@ -17,54 +17,89 @@
                 </div>
                 <div id="product-1" class="row">
                     <!-- Single Product -->
-                    <div v-for="product in category" :key="product.id" id="product-1"
-                        class="col-md-6 col-lg-4 col-xl-3">
+                    <div
+                        v-for="product in category"
+                        :key="product.id"
+                        id="product-1"
+                        class="col-md-6 col-lg-4 col-xl-3"
+                    >
                         <div class="single-product">
-                            <div class="part-1" :style="{
-                                backgroundImage:
-                                    'url(http://127.0.0.1:8000/api/get-image-link/' +
-                                    product.imge +
-                                    ')',
-                            }">
+                            <div
+                                class="part-1"
+                                :style="{
+                                    backgroundImage:
+                                        'url(http://127.0.0.1:8000/api/get-image-link/' +
+                                        product.imge +
+                                        ')',
+                                }"
+                            >
                                 <ul>
-                                    <li @click="
-                                AddProduct(
-                                    product.id,
-                                    product.mobile_name,
-                                    product.Price,
-                                    product.imge
-                                )
-                                ">
+                                    <li
+                                        @click="
+                                            AddProduct(
+                                                product.id,
+                                                product.mobile_name,
+                                                product.Price,
+                                                product.imge
+                                            )
+                                        "
+                                    >
                                         <router-link to="/CheckOut">
-                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
-                                                fill="currentColor" class="bi bi-bag" viewBox="0 0 16 16">
+                                            <svg
+                                                xmlns="http://www.w3.org/2000/svg"
+                                                width="16"
+                                                height="16"
+                                                fill="currentColor"
+                                                class="bi bi-bag"
+                                                viewBox="0 0 16 16"
+                                            >
                                                 <path
-                                                    d="M8 1a2.5 2.5 0 0 1 2.5 2.5V4h-5v-.5A2.5 2.5 0 0 1 8 1zm3.5 3v-.5a3.5 3.5 0 1 0-7 0V4H1v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V4h-3.5zM2 5h12v9a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V5z" />
+                                                    d="M8 1a2.5 2.5 0 0 1 2.5 2.5V4h-5v-.5A2.5 2.5 0 0 1 8 1zm3.5 3v-.5a3.5 3.5 0 1 0-7 0V4H1v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V4h-3.5zM2 5h12v9a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V5z"
+                                                />
                                             </svg>
                                         </router-link>
                                     </li>
                                     <li>
-                                        <svg @click="
-                                AddProduct(
-                                    product.id,
-                                    product.mobile_name,
-                                    product.Price,
-                                    product.imge
-                                )
-                                " xmlns="http://www.w3.org/2000/svg" width="16" height="16"
-                                            fill="currentColor" class="bi bi-plus-lg" viewBox="0 0 16 16">
-                                            <path fill-rule="evenodd"
-                                                d="M8 2a.5.5 0 0 1 .5.5v5h5a.5.5 0 0 1 0 1h-5v5a.5.5 0 0 1-1 0v-5h-5a.5.5 0 0 1 0-1h5v-5A.5.5 0 0 1 8 2Z" />
+                                        <svg
+                                            @click="
+                                                AddProduct(
+                                                    product.id,
+                                                    product.mobile_name,
+                                                    product.Price,
+                                                    product.imge
+                                                )
+                                            "
+                                            xmlns="http://www.w3.org/2000/svg"
+                                            width="16"
+                                            height="16"
+                                            fill="currentColor"
+                                            class="bi bi-plus-lg"
+                                            viewBox="0 0 16 16"
+                                        >
+                                            <path
+                                                fill-rule="evenodd"
+                                                d="M8 2a.5.5 0 0 1 .5.5v5h5a.5.5 0 0 1 0 1h-5v5a.5.5 0 0 1-1 0v-5h-5a.5.5 0 0 1 0-1h5v-5A.5.5 0 0 1 8 2Z"
+                                            />
                                         </svg>
                                     </li>
                                     <li>
-                                        <router-link :to="'/DetailsProduct?id=' +
-                                product.id
-                                "><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
-                                                fill="currentColor" class="bi bi-arrows-angle-expand"
-                                                viewBox="0 0 16 16">
-                                                <path fill-rule="evenodd"
-                                                    d="M5.828 10.172a.5.5 0 0 0-.707 0l-4.096 4.096V11.5a.5.5 0 0 0-1 0v3.975a.5.5 0 0 0 .5.5H4.5a.5.5 0 0 0 0-1H1.732l4.096-4.096a.5.5 0 0 0 0-.707zm4.344-4.344a.5.5 0 0 0 .707 0l4.096-4.096V4.5a.5.5 0 1 0 1 0V.525a.5.5 0 0 0-.5-.5H11.5a.5.5 0 0 0 0 1h2.768l-4.096 4.096a.5.5 0 0 0 0 .707z" />
+                                        <router-link
+                                            :to="
+                                                '/DetailsProduct?id=' +
+                                                product.id
+                                            "
+                                            ><svg
+                                                xmlns="http://www.w3.org/2000/svg"
+                                                width="16"
+                                                height="16"
+                                                fill="currentColor"
+                                                class="bi bi-arrows-angle-expand"
+                                                viewBox="0 0 16 16"
+                                            >
+                                                <path
+                                                    fill-rule="evenodd"
+                                                    d="M5.828 10.172a.5.5 0 0 0-.707 0l-4.096 4.096V11.5a.5.5 0 0 0-1 0v3.975a.5.5 0 0 0 .5.5H4.5a.5.5 0 0 0 0-1H1.732l4.096-4.096a.5.5 0 0 0 0-.707zm4.344-4.344a.5.5 0 0 0 .707 0l4.096-4.096V4.5a.5.5 0 1 0 1 0V.525a.5.5 0 0 0-.5-.5H11.5a.5.5 0 0 0 0 1h2.768l-4.096 4.096a.5.5 0 0 0 0 .707z"
+                                                />
                                             </svg>
                                         </router-link>
                                     </li>

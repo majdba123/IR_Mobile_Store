@@ -1,43 +1,88 @@
 <template>
     <html lang="en">
+        <head>
+            <meta charset="UTF-8" />
 
-    <head>
-        <meta charset="UTF-8" />
+            <meta
+                name="viewport"
+                content="width=device-width, initial-scale=1.0"
+            />
+            <link rel="stylesheet" href="style.css" />
+        </head>
+        <HeaderSignUp />
+        <div class="aaa">
+            <section class="wwrapper">
+                <div class="form signup">
+                    <header>Signup</header>
+                    <form>
+                        <input
+                            type="text"
+                            class="bbb"
+                            placeholder="Full name"
+                            required
+                            v-model="name"
+                        />
+                        <input
+                            class="bbb"
+                            type="text"
+                            placeholder="Email address"
+                            required
+                            v-model="email"
+                        />
+                        <input
+                            class="bbb"
+                            type="password"
+                            placeholder="Password"
+                            required
+                            v-model="password"
+                        />
+                        <div class="checkbox">
+                            <input type="checkbox" id="signupCheck" />
+                            <label for="signupCheck"
+                                >I accept all terms & conditions</label
+                            >
+                        </div>
+                        ><input
+                            type="button"
+                            @click="register()"
+                            class="bbb"
+                            value="Signup"
+                        />
+                    </form>
+                </div>
+                <div class="form login">
+                    <header>Login</header>
+                    <form action="#">
+                        <input
+                            v-model="email"
+                            class="bbb"
+                            type="text"
+                            placeholder="Email address"
+                            required
+                        />
+                        <input
+                            v-model="password"
+                            class="bbb"
+                            type="password"
+                            placeholder="Password"
+                            required
+                        />
 
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <link rel="stylesheet" href="style.css" />
-    </head>
-    <HeaderSignUp />
-    <div class="aaa">
-        <section class="wwrapper">
-            <div class="form signup">
-                <header>Signup</header>
-                <form>
-                    <input type="text" class="bbb" placeholder="Full name" required v-model="name" />
-                    <input class="bbb" type="text" placeholder="Email address" required v-model="email" />
-                    <input class="bbb" type="password" placeholder="Password" required v-model="password" />
-                    <div class="checkbox">
-                        <input type="checkbox" id="signupCheck" />
-                        <label for="signupCheck">I accept all terms & conditions</label>
-                    </div>
-                    ><input type="button" @click="register()" class="bbb" value="Signup" />
-                </form>
-            </div>
-            <div class="form login">
-                <header>Login</header>
-                <form action="#">
-                    <input v-model="email" class="bbb" type="text" placeholder="Email address" required />
-                    <input v-model="password" class="bbb" type="password" placeholder="Password" required />
-
-                    <a href="#"><router-link to="/ForgotPassword">
-                            Forgot password?</router-link>
-                    </a>
-                    <input type="button" class="bbb" value="Login" @click="login()" />
-                </form>
-            </div>
-        </section>
-    </div>
-
+                        <a href="#"
+                            ><router-link to="/ForgotPassword">
+                                Forgot password?</router-link
+                            >
+                        </a>
+                        <input
+                            type="button"
+                            class="bbb"
+                            value="Login"
+                            @click="login()"
+                        />
+                    </form>
+                </div>
+            </section>
+        </div>
     </html>
 </template>
 
